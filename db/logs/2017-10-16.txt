@@ -1,0 +1,12 @@
+Time : 14:40:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 12:28:08
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:26:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:24:59
+SQLSTATE[HY000] [2002] Connection timed out

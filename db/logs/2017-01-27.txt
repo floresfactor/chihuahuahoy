@@ -1,0 +1,33 @@
+Time : 18:45:16
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 18:44:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 17:42:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 10:22:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9674'A=0
+
+Time : 05:09:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:07:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:23:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:20:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 03:23:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 03:22:10
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 03:21:18
+SQLSTATE[HY000] [2002] Connection timed out

@@ -1,0 +1,43 @@
+Time : 19:58:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 15:25:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 13:50:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. ' at line 1
+Raw SQL : CALL insertar('sorprendete','','mundo2','Una nueva esperanza, otra vez PLAYGROUND','190109.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg',' Hace unos días, Kathleen Kennedy de Lucasfilm aseguraba que su equipo de 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. Hoy, ese futuro está un poco más claro: la compañía ha anunciado que prepara una nueva trilogía de películas.','',' El próximo capítulo de la actual saga llegará en apenas un mes. Luego tendremos a Han Solo como protagonista de su spin off (se estrenará en mayo de 2018). La saga de Skywalker se cerrará en diciembre de 2019 con el Episodio IX. A partir de ahí, toca volver a imaginar para mantener la franquicia viva al menos hasta el 2030. Y al frente de ese proceso estará Rian Johnson, director de Los últimos Jedi.
+
+“Johnson es una verdadera fuerza creativa, y verle crear The Last Jedi de principio a fin fue uno de los grandes placeres de mi carrera”, ha dicho Kathleen Kennedy. “Rian va a hacer cosas increíbles con el lienzo en blanco de esta nueva trilogía”.','','','','','','','','')
+
+Time : 13:49:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. ' at line 1
+Raw SQL : CALL insertar('sorprendete','chihuahua','mundo2','Una nueva esperanza, otra vez PLAYGROUND ','190109.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg',' Hace unos días, Kathleen Kennedy de Lucasfilm aseguraba que su equipo de 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. Hoy, ese futuro está un poco más claro: la compañía ha anunciado que prepara una nueva trilogía de películas.','',' El próximo capítulo de la actual saga llegará en apenas un mes. Luego tendremos a Han Solo como protagonista de su spin off (se estrenará en mayo de 2018). La saga de Skywalker se cerrará en diciembre de 2019 con el Episodio IX. A partir de ahí, toca volver a imaginar para mantener la franquicia viva al menos hasta el 2030. Y al frente de ese proceso estará Rian Johnson, director de Los últimos Jedi.
+
+“Johnson es una verdadera fuerza creativa, y verle crear The Last Jedi de principio a fin fue uno de los grandes placeres de mi carrera”, ha dicho Kathleen Kennedy. “Rian va a hacer cosas increíbles con el lienzo en blanco de esta nueva trilogía”.','','','','','','','','')
+
+Time : 13:48:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. ' at line 1
+Raw SQL : CALL insertar('sorprendete','chihuahua','mundo2','Una nueva esperanza, otra vez PLAYGROUND ','190109.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg',' Hace unos días, Kathleen Kennedy de Lucasfilm aseguraba que su equipo de 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. Hoy, ese futuro está un poco más claro: la compañía ha anunciado que prepara una nueva trilogía de películas.','',' El próximo capítulo de la actual saga llegará en apenas un mes. Luego tendremos a Han Solo como protagonista de su spin off (se estrenará en mayo de 2018). La saga de Skywalker se cerrará en diciembre de 2019 con el Episodio IX. A partir de ahí, toca volver a imaginar para mantener la franquicia viva al menos hasta el 2030. Y al frente de ese proceso estará Rian Johnson, director de Los últimos Jedi.
+
+“Johnson es una verdadera fuerza creativa, y verle crear The Last Jedi de principio a fin fue uno de los grandes placeres de mi carrera”, ha dicho Kathleen Kennedy. “Rian va a hacer cosas increíbles con el lienzo en blanco de esta nueva trilogía”.','','','','','','','','')
+
+Time : 13:48:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. ' at line 1
+Raw SQL : CALL insertar('sorprendete','','mundo2','Una nueva esperanza, otra vez PLAYGROUND ','190109.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg',' Hace unos días, Kathleen Kennedy de Lucasfilm aseguraba que su equipo de 'stories' ya estaba pensando en el futuro de Star Wars para la próxima década. Hoy, ese futuro está un poco más claro: la compañía ha anunciado que prepara una nueva trilogía de películas.','',' El próximo capítulo de la actual saga llegará en apenas un mes. Luego tendremos a Han Solo como protagonista de su spin off (se estrenará en mayo de 2018). La saga de Skywalker se cerrará en diciembre de 2019 con el Episodio IX. A partir de ahí, toca volver a imaginar para mantener la franquicia viva al menos hasta el 2030. Y al frente de ese proceso estará Rian Johnson, director de Los últimos Jedi.
+
+“Johnson es una verdadera fuerza creativa, y verle crear The Last Jedi de principio a fin fue uno de los grandes placeres de mi carrera”, ha dicho Kathleen Kennedy. “Rian va a hacer cosas increíbles con el lienzo en blanco de esta nueva trilogía”.','','','','','','','','')
+
+Time : 12:44:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 12:44:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 11:03:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

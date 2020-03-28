@@ -1,0 +1,17 @@
+Time : 22:51:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 10:48:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:41:47
+SQLSTATE[HY000] [1040] Too many connections
+
+Time : 10:22:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 10:22:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id='0=A

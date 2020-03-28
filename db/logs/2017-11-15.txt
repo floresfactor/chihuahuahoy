@@ -1,0 +1,67 @@
+Time : 14:48:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sunset' propuesta por el Gobierno estadounidense.
+
+El funcionario agregó que ' at line 1
+Raw SQL : CALL insertar('economia','','titular2','México propondrá evaluar continuidad del TLCAN','TLCAN.jpg','En vez de la cláusula de terminación anticipada que propone Estados Unidos, Ildefonso Guajardo, secretario de Economía, señaló que sería mejor evaluar la continuidad del acuerdo "no pautar una muerte súbita". ','','México propondrá evaluar la continuidad del TLCAN cada cinco años en la quinta ronda de negociaciones que inicia esta semana, como contrapropuesta a la cláusula de terminación anticipada puesta sobre la mesa por Estados Unidos en la ronda previa, dijo este miércoles el secretario de Economía, Ildefonso Guajardo.
+
+"Hagamos un compromiso de que cada cinco año evaluemos (la continuidad del Tratado). No pautar una muerte súbita", dijo Guajardo en entrevista radiofónica en referencia a la polémica cláusula 'Sunset' propuesta por el Gobierno estadounidense.
+
+El funcionario agregó que ve poco probable que Estados Unidos anuncie su salida del tratado este año, debido a la discusión legislativa de la reforma tributaria en ese país, pero no descartó que en el primer trimestre pudiera haber alguna determinación.
+
+La quinta ronda para la renegociación del Tratado de Libre Comercio de América del Norte (TLCAN) inició este miércoles bajo la sombra de duras demandas de Estados Unidos y sin la presencia de los ministros involucrados en el proceso.
+
+Negociadores de menor nivel participaban en reuniones protocolares en Ciudad de México sobre los temas de textiles, servicios y propiedad intelectual, dijeron dos funcionarios familiarizados con los planes.
+
+Aunque la ronda inicia formalmente el viernes en la capital mexicana, y termina el 21 de noviembre, algunas mesas comenzaron anticipadamente sus sesiones porque adelantaron agendas.
+
+Por primera vez desde que se iniciaron las negociaciones, los ministros del TLCAN -la canciller canadiense, Chrystia Freeland; el de Economía de México, Ildefonso Guajardo, y el representante comercial de Estados Unidos, Robert Lighthizer- no asistirán a una ronda, dijeron en un comunicado conjunto.
+
+Explicaron que dadas las discusiones sustanciales sostenidas entre los ministros en el Foro de Cooperación Económica Asia-Pacífico, en Vietnam, acordaron no asistir a las reuniones de México, "para que los negociadores puedan continuar avanzando en los capítulos clave avanzados en la Ronda 4".','','','','','','','','')
+
+Time : 14:48:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sunset' propuesta por el Gobierno estadounidense.
+
+El funcionario agregó que ' at line 1
+Raw SQL : CALL insertar('economia','','titular2','México propondrá evaluar continuidad del TLCAN','TLCAN.jpg','En vez de la cláusula de terminación anticipada que propone Estados Unidos, Ildefonso Guajardo, secretario de Economía, señaló que sería mejor evaluar la continuidad del acuerdo "no pautar una muerte súbita". ','','México propondrá evaluar la continuidad del TLCAN cada cinco años en la quinta ronda de negociaciones que inicia esta semana, como contrapropuesta a la cláusula de terminación anticipada puesta sobre la mesa por Estados Unidos en la ronda previa, dijo este miércoles el secretario de Economía, Ildefonso Guajardo.
+
+"Hagamos un compromiso de que cada cinco año evaluemos (la continuidad del Tratado). No pautar una muerte súbita", dijo Guajardo en entrevista radiofónica en referencia a la polémica cláusula 'Sunset' propuesta por el Gobierno estadounidense.
+
+El funcionario agregó que ve poco probable que Estados Unidos anuncie su salida del tratado este año, debido a la discusión legislativa de la reforma tributaria en ese país, pero no descartó que en el primer trimestre pudiera haber alguna determinación.
+
+La quinta ronda para la renegociación del Tratado de Libre Comercio de América del Norte (TLCAN) inició este miércoles bajo la sombra de duras demandas de Estados Unidos y sin la presencia de los ministros involucrados en el proceso.
+
+Negociadores de menor nivel participaban en reuniones protocolares en Ciudad de México sobre los temas de textiles, servicios y propiedad intelectual, dijeron dos funcionarios familiarizados con los planes.
+
+Aunque la ronda inicia formalmente el viernes en la capital mexicana, y termina el 21 de noviembre, algunas mesas comenzaron anticipadamente sus sesiones porque adelantaron agendas.
+
+Por primera vez desde que se iniciaron las negociaciones, los ministros del TLCAN -la canciller canadiense, Chrystia Freeland; el de Economía de México, Ildefonso Guajardo, y el representante comercial de Estados Unidos, Robert Lighthizer- no asistirán a una ronda, dijeron en un comunicado conjunto.
+
+Explicaron que dadas las discusiones sustanciales sostenidas entre los ministros en el Foro de Cooperación Económica Asia-Pacífico, en Vietnam, acordaron no asistir a las reuniones de México, "para que los negociadores puedan continuar avanzando en los capítulos clave avanzados en la Ronda 4".','','','','','','','','')
+
+Time : 14:13:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 09:42:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 09:42:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 09:11:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 05:20:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 05:18:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 02:05:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

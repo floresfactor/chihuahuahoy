@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "myserver"]
+	url = ssh://chihuahuahoy@ps447048.dreamhostps.com/~/chihuahuahoy/
+	fetch = +refs/heads/*:refs/remotes/myserver/*

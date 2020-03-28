@@ -1,0 +1,29 @@
+Time : 22:32:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 19:32:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://amam.bg/555.txt?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id= http://amam.bg/555.txt?
+
+Time : 19:32:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://amam.bg/555.txt?' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id= http://amam.bg/555.txt?
+
+Time : 19:32:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://amam.bg/555.txt?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id= http://amam.bg/555.txt?
+
+Time : 13:56:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 08:34:35
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:31:45
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 02:26:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''7535' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='7535

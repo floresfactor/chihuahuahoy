@@ -1,0 +1,323 @@
+Time : 15:17:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3954'
+
+Time : 07:46:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9786'A=0
+
+Time : 04:20:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4177' IN BOOLEAN MODE) ORDER BY 1#
+
+Time : 04:20:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS yRFD WHERE 8465=8465 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8688") AS yRFD WHERE 8465=8465 ORDER BY 1#
+
+Time : 04:20:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS eQSQ WHERE 1928=1928 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9669') AS eQSQ WHERE 1928=1928 ORDER BY 1#
+
+Time : 04:20:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS ObQd WHERE 8428=8428 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6181")) AS ObQd WHERE 8428=8428 ORDER BY 1#
+
+Time : 04:20:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS uJwe WHERE 7302=7302 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1715')) AS uJwe WHERE 7302=7302 ORDER BY 1#
+
+Time : 04:20:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1733' ORDER BY 1#
+
+Time : 04:20:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8494" ORDER BY 1#
+
+Time : 04:20:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3123"))) ORDER BY 1#
+
+Time : 04:20:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8181")) ORDER BY 1#
+
+Time : 04:20:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8682") ORDER BY 1#
+
+Time : 04:20:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7935" ORDER BY 1#
+
+Time : 04:20:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7480"))) ORDER BY 1#
+
+Time : 04:20:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9181")) ORDER BY 1#
+
+Time : 04:20:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6347") ORDER BY 1#
+
+Time : 04:20:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9709' ORDER BY 1#
+
+Time : 04:20:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1825'))) ORDER BY 1#
+
+Time : 04:20:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3899')) ORDER BY 1#
+
+Time : 04:20:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4435') ORDER BY 1#
+
+Time : 04:20:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4574' ORDER BY 1#
+
+Time : 04:20:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5531'))) ORDER BY 1#
+
+Time : 04:20:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7509')) ORDER BY 1#
+
+Time : 04:20:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6189') ORDER BY 1#
+
+Time : 04:20:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8375" ORDER BY 1#
+
+Time : 04:20:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7633' ORDER BY 1#
+
+Time : 04:20:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5241') ORDER BY 1#
+
+Time : 04:20:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 1357=1357 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9190`) WHERE 1357=1357 ORDER BY 1#
+
+Time : 04:20:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 7939=7939 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7505` WHERE 7939=7939 ORDER BY 1#
+
+Time : 04:20:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS jeFj WHERE 6756=6756 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6161) AS jeFj WHERE 6756=6756 ORDER BY 1#
+
+Time : 04:20:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS ZeAT WHERE 1666=1666 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2290)) AS ZeAT WHERE 1666=1666 ORDER BY 1#
+
+Time : 04:20:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5958 ORDER BY 1#
+
+Time : 04:20:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2124 ORDER BY 1#
+
+Time : 04:20:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4712 ORDER BY 1#
+
+Time : 04:20:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6437))) ORDER BY 1#
+
+Time : 04:20:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9692)) ORDER BY 1#
+
+Time : 04:20:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3677) ORDER BY 1#
+
+Time : 04:20:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1639) ORDER BY 1#
+
+Time : 04:20:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998' IN BOOLEAN MODE) ORDER BY 1#
+
+Time : 04:20:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS sSML WHERE 9055=9055 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998") AS sSML WHERE 9055=9055 ORDER BY 1#
+
+Time : 04:20:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS thwS WHERE 5988=5988 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998') AS thwS WHERE 5988=5988 ORDER BY 1#
+
+Time : 04:20:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS REae WHERE 9479=9479 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998")) AS REae WHERE 9479=9479 ORDER BY 1#
+
+Time : 04:20:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS WYWP WHERE 2450=2450 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998')) AS WYWP WHERE 2450=2450 ORDER BY 1#
+
+Time : 04:20:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998' ORDER BY 1#
+
+Time : 04:20:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998" ORDER BY 1#
+
+Time : 04:20:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998"))) ORDER BY 1#
+
+Time : 04:20:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998")) ORDER BY 1#
+
+Time : 04:20:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998") ORDER BY 1#
+
+Time : 04:20:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998" ORDER BY 1#
+
+Time : 04:20:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998"))) ORDER BY 1#
+
+Time : 04:20:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998")) ORDER BY 1#
+
+Time : 04:20:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998") ORDER BY 1#
+
+Time : 04:20:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998' ORDER BY 1#
+
+Time : 04:20:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998'))) ORDER BY 1#
+
+Time : 04:20:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998')) ORDER BY 1#
+
+Time : 04:20:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998') ORDER BY 1#
+
+Time : 04:20:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998' ORDER BY 1#
+
+Time : 04:20:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998'))) ORDER BY 1#
+
+Time : 04:20:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998')) ORDER BY 1#
+
+Time : 04:20:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998') ORDER BY 1#
+
+Time : 04:20:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998" ORDER BY 1#
+
+Time : 04:19:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998' ORDER BY 1#
+
+Time : 04:19:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998') ORDER BY 1#
+
+Time : 04:19:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 4253=4253 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998`) WHERE 4253=4253 ORDER BY 1#
+
+Time : 04:19:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 2715=2715 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998` WHERE 2715=2715 ORDER BY 1#
+
+Time : 04:19:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS AlXS WHERE 2021=2021 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998) AS AlXS WHERE 2021=2021 ORDER BY 1#
+
+Time : 04:19:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS oZuH WHERE 8846=8846 ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998)) AS oZuH WHERE 8846=8846 ORDER BY 1#
+
+Time : 04:19:57
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998 ORDER BY 1#
+
+Time : 04:19:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998 ORDER BY 1#
+
+Time : 04:19:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998 ORDER BY 1#
+
+Time : 04:19:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998))) ORDER BY 1#
+
+Time : 04:19:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998)) ORDER BY 1#
+
+Time : 04:19:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998) ORDER BY 1#
+
+Time : 04:19:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998) ORDER BY 1#
+
+Time : 04:19:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1-- ACbJ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998' ORDER BY 1-- ACbJ
+
+Time : 04:19:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1-- RRVe' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998') ORDER BY 1-- RRVe
+
+Time : 04:19:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998 ORDER BY 1-- AtNf
+
+Time : 04:19:47
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998 ORDER BY 1-- AUcT
+
+Time : 04:19:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1-- KicU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998) ORDER BY 1-- KicU
+
+Time : 04:19:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''SeCnBB<'">hsFHqq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998'SeCnBB<'">hsFHqq
+
+Time : 04:19:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')).)(,'"),' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1998)).)(,'"),

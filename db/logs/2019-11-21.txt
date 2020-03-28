@@ -1,0 +1,19 @@
+Time : 22:53:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10068'A=0
+
+Time : 10:15:56
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:13:48
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:12:40
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:11:56
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 01:50:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5712'A=0

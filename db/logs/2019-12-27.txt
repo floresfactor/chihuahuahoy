@@ -1,0 +1,162 @@
+Time : 21:05:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''[0]' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3390'[0]
+
+Time : 15:11:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10229'
+
+Time : 14:50:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3390'
+
+Time : 14:09:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 13:09:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:09:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:03:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:57:15
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:53:03
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:51:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:50:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:50:34
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:48:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:54
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:54
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:45:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:44:16
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:44:14
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:41:13
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:38:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:36:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:36:17
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:34:45
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:33:14
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:31:32
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:31:17
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:22:09
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:21:56
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:21:40
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:21:39
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:18:58
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:17:35
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:16:37
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:12:59
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:09:27
+SQLSTATE[HY000] [1040] Too many connections
+
+Time : 12:08:03
+SQLSTATE[HY000] [1040] Too many connections

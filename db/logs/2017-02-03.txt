@@ -1,0 +1,25 @@
+Time : 23:34:13
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias WHERE ubicacion = 'chihuahua1' ORDER BY date DESC LIMIT 0,1
+
+Time : 22:07:12
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias WHERE ubicacion = 'mundo3' ORDER BY date DESC LIMIT 0,1
+
+Time : 21:56:07
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:55:36
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:55:08
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:55:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:54:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:38:14
+SQLSTATE[HY000] [2002] Connection timed out

@@ -1,0 +1,91 @@
+Time : 18:53:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cercanos' a nuestra galaxia salen a la luz','GALAX.jpg','
+
+La galaxia NGC 1448' at line 1
+Raw SQL : CALL insertar('ciencia','','marquesina','Dos agujeros negros 'cercanos' a nuestra galaxia salen a la luz','GALAX.jpg','
+
+La galaxia NGC 1448 en la que se ha descubierto uno de los dos agujeros negros. ','','
+
+Estaban cerca pero hasta ahora habían permanecido ocultos a los ojos de los telescopios. Se trata de dos agujeros negros supermasivos situados en el corazón de sendas galaxias próximas a la Vía Láctea que han sido presentados el pasado fin de semana durante el Congreso de la Sociedad Astronómica América celebrado en Grapevine, Texas (EEUU).
+
+<P>
+Uno de ellos se encuentra en la galaxia espiral NGC 1448, situada a 38 millones de años luz, mientras que el segundo ha sido localizado en IC 3639, a 170 millones de años luz. Ambos objetos han sido descubiertos gracias a un potente telescopio de rayos X de la NASA llamado NuSTAR (siglas de Nuclear Spectroscopic Telescope Array), que permitió detectarlos tras la nube de gas y polvo bajo la que los agujeros negros pueden pasar desapercibidos para los científicos.Según explica la NASA, estos dos agujeros negros son los motores centrales de lo que los astrónomos denominan núcleos galácticos activos, objetos extremadamente brillantes que incluyen fuentes de energía como los cuásares y los blazares.
+<P>
+ Dependiendo de su orientación y del tipo de material que les rodea, resultan muy diferentes cuando son observados por telescopios. Ocultos tras el polvo y el gasLos núcleos galácticos son tan brillantes debido a que las partículas que hay alrededor de un agujero negro tienen altas temperaturas y emiten radiación a lo largo de todo el espectro electromagnético. 
+<P>
+«De la misma forma que no podemos ver el Sol en un día nublado, no podemos observar directamente el brillo de los núcleos galácticos activos debido a todo el gas y el polvo que rodea ese motor principal», explica Peter Boorman, de la Universidad de Southampton, en Reino Unido.
+<P>
+Los astrónomos también han observado que la galaxia NGC 1448 alberga numerosas estrellas jóvenes, de sólo cinco millones de años, lo que sugiere que la galaxia fabrica nuevos astros al mismo tiempo que se alimenta de polvo y gas.','','','','','','','','')
+
+Time : 11:21:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 11:20:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 11:04:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9674'A=0
+
+Time : 09:31:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9674'A=0
+
+Time : 09:24:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:23:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:22:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:22:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:22:31
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:22:11
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:19:54
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:18:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:18:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:18:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:17:46
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:03:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'beneficios' de la Reforma Energética ','diputados.JPG','Los entonces diputados ' at line 1
+Raw SQL : CALL insertar('estado','chihuahua','chihuahua4','Diputados presumían 'beneficios' de la Reforma Energética ','diputados.JPG','Los entonces diputados federales del PRI Pedro Domínguez y Karina Velazquez, ofrecieron en agosto del 2014 una conferencia en donde anunciaban los beneficios de la recién aprobada Reforma Energética, siendo ellos promotores dijeron en aquella ocasión que tanto la energía eléctrica como la gasolina bajarían gracias a la reforma promovida por el PRI y el presidente Enrique Peña Nieto.
+
+','','En un video colgado por el Comité Directivo Estatal del PRI en Youtube en el año 2014 aparecen los diputados federales Karina Velázquez, Pedro Domínguez y el entonces presidente estatal del partido Alejandro Domínguez, en donde presumen la aprobación de la reforma que provocó que este año incrementara la gasolina un 20 por ciento.
+
+','','Los legisladores federales anunciaron los beneficios de la reforma, en la cual el diputado por el octavo distrito Pedro Domínguez Cepeda, aseguró que este año bajaría la gasolina por la competencia que aseguró existiría. ','','“Por eso los famosos y mal queridos gasolinazos está determinado terminan en 2014 y a partir de 2015 se establece un precio máximo de la gasolina, a partir de 2016 se van a poder expender litros de gasolina y a partir de 2017 la importación va a ser libre, y nos va a llevar a un régimen de libre mercado en donde la competencia va a provocar que el precio de la gasolina baje”, comentó en aquel entonces el legislador chihuahuense. ','','','','')
+
+Time : 08:41:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8638'A=0
+
+Time : 06:37:11
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:36:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:34:59
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:19:03
+SQLSTATE[HY000] [2002] Connection timed out

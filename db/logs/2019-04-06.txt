@@ -1,0 +1,3 @@
+Time : 09:41:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''local'' ORDER BY date DESC LIMIT 2128,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local'' ORDER BY date DESC LIMIT 2128,7

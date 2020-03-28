@@ -1,0 +1,7 @@
+Time : 06:16:05
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wp' in 'where clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10046/wp-login.php
+
+Time : 04:49:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

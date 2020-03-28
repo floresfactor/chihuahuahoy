@@ -1,0 +1,656 @@
+Time : 23:00:17
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias order by date desc limit 15
+
+Time : 21:55:08
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:55:05
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:55:04
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:55:02
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:55:00
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:58
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:55
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:52
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:50
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:49
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:44
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:42
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:40
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:38
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:37
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:32
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:30
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:25
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:23
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:21
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:19
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:13
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:11
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:08
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:04
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:54:01
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:59
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:57
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:56
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:54
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:52
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:50
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:49
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:47
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:45
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:44
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:42
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:40
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:38
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:35
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:34
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:29
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:28
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:26
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:24
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:22
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:21
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:19
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:13
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:12
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:08
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:03
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:01
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:53:00
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:58
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:56
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:54
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:52
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:49
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:47
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:45
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:44
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:42
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:40
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:39
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:37
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:35
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:34
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:32
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:26
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:24
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:20
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:18
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:17
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:14
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:12
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:10
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:08
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:07
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:03
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:52:01
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:59
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:57
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:55
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:53
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:51
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:50
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:48
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:46
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:45
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:41
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:40
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:38
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:36
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:34
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:32
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:30
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:28
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:26
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:24
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:19
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:16
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:12
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:10
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:09
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:06
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:04
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:51:02
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:57
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:54
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:52
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:50
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:44
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:41
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:39
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:35
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:33
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:32
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:30
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:28
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:25
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:23
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:20
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:16
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:14
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:12
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:11
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:07
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:06
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:04
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:50:02
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:54
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:53
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:51
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:49
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:45
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:43
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:42
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:40
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:38
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:36
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:35
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:31
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:29
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:27
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:25
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:20
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:19
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:17
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:14
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:12
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:10
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:05
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:01
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:49:00
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 21:48:51
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:48:18
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:47:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:47:15
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:46:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:46:09
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:45:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:45:37
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:45:06
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:44:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:44:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:43:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:42:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:42:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:41:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:41:21
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:40:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:40:17
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:39:45
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:39:12
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:38:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:38:09
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:37:37
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:37:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:36:32
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:35:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:35:26
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:34:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:34:20
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:34:03
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:33:48
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:33:16
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:32:45
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:32:13
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:31:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:31:06
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:30:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:30:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:23:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:20:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:17:09
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:16:38
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:16:06
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:15:44
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:15:34
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:15:03
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:14:31
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:14:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:13:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:12:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:09:36
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:07:18
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 02:31:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 02:31:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 02:31:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 02:31:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 02:30:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

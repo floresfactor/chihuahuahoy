@@ -1,0 +1,66 @@
+Time : 23:56:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9296'A=0
+
+Time : 21:05:23
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:04:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:47:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9279'A=0
+
+Time : 16:06:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 15:40:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:40:07
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:40:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:39:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:39:32
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:39:21
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:23:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:23:39
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:22:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:22:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:22:43
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:22:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:21:46
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:21:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:28:44
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:16:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A

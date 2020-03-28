@@ -1,0 +1,21 @@
+Time : 20:22:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 20:21:34
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:54:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:54:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:53:19
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:47:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://webmaster:123456@www.mvlivemusic.com/envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://webmaster:123456@www.mvlivemusic.com/envi.php?
+
+Time : 00:51:22
+SQLSTATE[HY000] [2002] Connection timed out

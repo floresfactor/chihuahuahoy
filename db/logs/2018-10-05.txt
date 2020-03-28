@@ -1,0 +1,29 @@
+Time : 21:14:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:53:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:53:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:23:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'en un cobro de tiro libre Torres se bajó el balón con el pecho y disparó, per' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Santos derrota al Atlas y se sube al liderato','SANTOS.jpeg','Se imponen por 3-1 y ocupan la cima de la tabla en espera de los otros resultados de la jornada
+<P>
+n un pelotazo de Santos, Furch se le escapó en la marca a González y cedió el balón a Rodríguez, quien devolvió el pase para que Furch abriera el marcador.
+<P>
+Atlas reaccionó y estuvo cerca de igualar al 35', cuando en un cobro de tiro libre Torres se bajó el balón con el pecho y disparó, pero una intervención oportuna de Nervo evitó el tanto de los Zorros.
+<P>
+Apenas iniciado el segundo tiempo, Santos anotó el 2-0 con un preciso cobro de tiro libre de Oswaldo Martínez.
+<P>
+Los Zorros reaccionaron rápido y al 50' Omar González redujo la distancia con un cabezazo que significó el 2-1 en el marcador.','','Atlas, que en las primeras 10 jornadas del torneo anotó sólo un gol, finalmente hilvana dos fechas consecutivas marcando.
+<P>
+Ocho minutos después, Santos respondió al fuego con fuego, y anotó el tercero con un cabezazo de Rodríguez, que superó en la marca a Calderón en un tiro de esquina.
+<P>
+Atlas no bajó los brazos y estuvo cerca de anotar otro gol, pero una gran reacción del portero Orozco sofocó la celebración de los Zorros.
+<P>
+La victoria pone a los Guerreros en la cima de la tabla general, en espera del resto de los resultados de la jornada. Los Zorros, por su parte, se quedan otra semana encerrados en el sótano.','','','','','','','','')

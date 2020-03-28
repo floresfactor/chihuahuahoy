@@ -1,0 +1,18 @@
+Time : 21:58:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://xypb:xypb2008@www.xypb.co.th./envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://xypb:xypb2008@www.xypb.co.th./envi.php?
+
+Time : 14:18:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:17:03
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:16:13
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 10:50:27
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:20:21
+SQLSTATE[HY000] [2002] Connection timed out

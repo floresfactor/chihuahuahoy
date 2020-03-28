@@ -1,0 +1,32 @@
+Time : 22:38:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Conejito' Brizuela entró por 'Chapo' Sánchez y Fierro por el 'Gallo' Vázquez.' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Las Chivas  empataron en último minuto con Santos Laguna','cjhiv.jpg','GUADALAJARA (05/FEB/2017).- Las Chivas de Guadalajara empataron de último minuto con Santos Laguna en la jornada cinco del Clausura 2017.','','
+
+Los rojiblancos demostraron mejor futbol, pero sufrieron para igualar el marcador 1-1 con un tanto de Pizarro al minuto 92.
+<p>
+Santos llegó al encuentro invicto, con dos victorias y dos empates en su cuenta. Los rojiblancos enfrentaron el partido después de haber jugado durante la semana un amistoso contra Boca Juniors.
+<p>
+El primer tiempo fue por momentos de ida y vuelta, con un mayor dominio de los rojiblancos. Los de la Comarca inquietaron a Cota sobre todo con disparos de lejos. Al minuto 39 Sandoval fue quien estuvo más cerca de abrir el marcador para los laguneros con un trallazo rasante que el portero de los tapatíos mandó a tiro de esquina.
+<p>
+Los rojiblancos atacaron desplegando mayor variedad de opciones. Orbelín buscó la portería santista de lejos, pero Chivas también tuvo opciones pisando el área rival con balón dominado. Al 41 Jonathan Orozco y el travesaño salvaron a los de la Comarca después de que Chivas fallara tres veces consecutivas ante el marco.
+<p>
+La tónica del partido no cambió para el segundo tiempo, pero los santistas lograron poner el marcador a su favor al capitalizar una jugada a pelota parada. Al minuto 57 Julio Furch conectó de cabeza un tiro de esquina por izquierda.
+<p>
+Guadalajara mandó hombres al frente para buscar el resultado: 'Conejito' Brizuela entró por 'Chapo' Sánchez y Fierro por el 'Gallo' Vázquez. Santos perdió a De Buen, que vio la roja con sólo seis minutos en la cancha. Después José Manuel de la Torre, el técnico de los santistas también fue expulsado.
+<p>
+Santos se echó atrás y los rojiblancos sufrieron para sacar ventaja la superioridad numérica. Fue hasta el 92, en tiempo de compensación, que Pizarro puso de cabeza el 1-1 definitivo.
+<p>
+Los de la Comarca se van de Chivas con el invicto intacto, mientras los rojiblancos se preparan para enfrentar el sábado próximo al Atlas, que también empató de último minuto su partido ante Puebla.','','','','','','','','')
+
+Time : 19:11:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:53:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7441'A=0
+
+Time : 04:23:34
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:21:36
+SQLSTATE[HY000] [2002] Connection timed out

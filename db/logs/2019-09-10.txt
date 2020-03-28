@@ -1,0 +1,19 @@
+Time : 23:04:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?8=846426' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9992/wp-login.php?8=846426
+
+Time : 18:09:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 13:54:10
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 13:53:28
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 13:52:44
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 13:32:50
+SQLSTATE[HY000] [1040] Too many connections

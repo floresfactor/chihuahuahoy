@@ -1,0 +1,40 @@
+Time : 22:02:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 17:42:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9783'A=0
+
+Time : 15:32:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Funny or Die'.Actores como Lizzy Caplan, Dulé Hill, Shailene Woodley y Amber He' at line 1
+Raw SQL : CALL insertar('espectaculos','','marquesina','Artistas se burlan de “hechos alternativos” de Trump','artis.jpg','
+ (AlMomentoMX).-  Varios artistas de Hollywood, como Susan Sarandon y Cara Delevigne, se unieron para realizar un video en tono de burla de los “hechos alternativos” del presidente estadunidense, Donald Trump.eo.','','
+
+Los actores que participan en el video publicado en 'Funny or Die'.Actores como Lizzy Caplan, Dulé Hill, Shailene Woodley y Amber Heard participaron en este gag alojado en el sitio web “Funny or Die”, en el cual aseguran que lo único que hace el presidente es seguir “una constitución alternativa” del país.
+<p>
+La broma toma como premisa las declaraciones de la consejera presidencial Kellyanne Conway, que en torno a la controversia sobre la cifra de asistentes a la investidura de Trump dijo que la Casa Blanca había presentado “hechos alternativos”, una declaración que causó asombro y burlas en medios y redes sociales.
+<p>
+En el vídeo, los artistas se preguntan por qué Trump está adoptando medidas como el decreto que suspende la entrada de todos los refugiados y también la concesión de visados a siete países de mayoría musulmana.
+<p>
+La respuesta, según la grabación, se encuentra en otra constitución, llamada “la constitución alternativa”, de la que sólo quedan dos copias, una de las cuales estaría en poder de Trump.
+<p>
+“Está trabajando con una constitución equivocada y él ni siquiera lo sabe”, comentan.
+<p>
+Mientras la Primera Enmienda de la Constitución estadunidense asegura que no se aprobará ninguna ley que establezca una religión oficial, la “constitución alternativa” añade en este punto que “si un atractivo, valiente y asustado presidente promulga una orden ejecutiva que favorezca a una religión sobre otra, sólo experimentará puro éxtasis”.
+<p>
+El video continúa dando otras supuestas explicaciones a las acciones de Trump y asegura que el magnate creció mirando una Estatua de la Libertad alternativa a la oficial que, en lugar de Francia, fue enviada por Rusia.
+<p>
+Concluye con los artistas instando a que alguien cercano al presidente le entregue una copia con los artículos originales de la Constitución para reemplazar el texto errón','','','','','','','','')
+
+Time : 12:03:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:33:23
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:32:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:30:40
+SQLSTATE[HY000] [2002] Connection timed out
