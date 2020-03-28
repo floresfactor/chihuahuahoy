@@ -1,0 +1,23 @@
+Time : 21:38:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 21:37:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:39:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:19:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.itce.com.br/novo/555.txt?' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=http://www.itce.com.br/novo/555.txt?
+
+Time : 14:19:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.itce.com.br/novo/555.txt?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=http://www.itce.com.br/novo/555.txt?
+
+Time : 12:03:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5612'A=0

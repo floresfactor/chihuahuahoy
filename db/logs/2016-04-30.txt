@@ -1,0 +1,57 @@
+Time : 20:28:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5296'A=0
+
+Time : 17:48:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 15:54:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 15:38:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 13:50:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 12:49:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 11:37:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 09:58:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 09:04:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 07:34:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 06:43:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 04:57:12
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:56:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:34:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --
+
+Time : 04:09:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4948' union select 0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a,0x5e252a --

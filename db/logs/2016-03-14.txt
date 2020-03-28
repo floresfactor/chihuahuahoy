@@ -1,0 +1,21 @@
+Time : 20:30:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.lightair-uk.com/made.jpg?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=http://www.lightair-uk.com/made.jpg?
+
+Time : 15:26:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.lightair-uk.com/made.jpg?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=http://www.lightair-uk.com/made.jpg?
+
+Time : 12:52:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:04:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 06:03:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 02:51:46
+SQLSTATE[HY000] [2002] Connection timed out

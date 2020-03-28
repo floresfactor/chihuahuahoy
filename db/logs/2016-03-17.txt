@@ -1,0 +1,55 @@
+Time : 15:21:15
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:21:09
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:21:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:20:59
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:20:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:20:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:14:13
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:13:52
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:04:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'submarino amarillo' apenas se asomó el ataque, pero se mantuvo firme atrás par' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Chicharito y Leverkusen eliminados de la Europa League','bay.jpg','
+
+El Villarreal, del mexicano Jonathan dos Santos, sigue con su firme trayectoria en la UEFA Europa League, donde este jueves aseguró su pase a los Cuartos de Final, tras empatar sin goles (0-0) con el Bayer 04 Leverkusen en el Estadio BayArena.','','
+
+El delantero mexicano Javier ‘Chicharito’ Hernández fue titular y disputó los 90 minutos de juego, sin embargo, poco pudo hacer para evitar la eliminación de las ‘Aspirias’, que para el duelo de vuelta de Octavos de Final llegaban con la obligación de remontar el 2-0 que sufrieron en el duelo de ida.
+ <p>
+El encuentro trajo buenas noticias antes del arranque. Marcelino despejó la incógnita y apostó por Sergio Asenjo para cubrir la importante ausencia de Alphonse Aréola. Y el palentino no defraudó. Ignorando que este era su primer encuentro oficial desde la grave lesión sufrida el 29 de abril del pasado año, Asenjo fue un gigante que los germanos fueron incapaces de superar.
+<p>
+Los alemanes no pisaron la portería amarilla hasta el minuto 19, cuando Asenjo sacó una mano milagrosa a una internada de Hakan �alhano?lu. La acción fue vital para el portero, que veía así reforzada  su confianza tras una larga inactividad. Tras este acercamiento los aficionados teutones salieron de su letargo y el Leverkusen disfrutó de sus mejores minutos. Dominó la posesión, pero el Villarreal sacó a relucir su habitual solidez defensiva para ahogar el juego rival.
+<p>
+Es cierto que el 'submarino amarillo' apenas se asomó el ataque, pero se mantuvo firme atrás para dejar pasar los minutos y hacer cada más vez insuperable el 2-0 de la ida. En todo el primer tiempo sólo pisó área en el minuto 34, cuando un mal control de Denis Suárez frustró una ocasión inmejorable para matar la eliminatoria.
+<p>
+Para el segundo lapso la tónica se mantuvo, incapaces de crear peligro, el Leverkusen acabó hincando la rodilla ante un Villarreal que este viernes estará en los bombos del sorteo. Y el resto de los equipos clasificados le mirarán con recelo. Después de eliminar al SSC Napoli y al Leverkusen, ya nadie querrá verse las caras con el 'submarino', que navega a velocidad de crucero. ','','','','','','','','')
+
+Time : 07:33:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 06:52:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:51:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:42:26
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:41:34
+SQLSTATE[HY000] [2002] Connection timed out

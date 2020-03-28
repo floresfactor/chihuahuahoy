@@ -1,0 +1,44 @@
+Time : 23:03:43
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 23:03:32
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 23:02:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 21:15:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:18:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:18:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 11:12:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:12:44
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:40:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8295/
+
+Time : 05:40:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8295/
+
+Time : 04:55:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:54:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:21:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

@@ -1,0 +1,18 @@
+Time : 18:43:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://pladetur:1q2w3e4r@www.pladetur.ulagos.cl/envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://pladetur:1q2w3e4r@www.pladetur.ulagos.cl/envi.php?
+
+Time : 17:19:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://pladetur:1q2w3e4r@www.pladetur.ulagos.cl/envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://pladetur:1q2w3e4r@www.pladetur.ulagos.cl/envi.php?
+
+Time : 16:54:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=119'A=0
+
+Time : 16:19:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 02:05:16
+SQLSTATE[HY000] [2002] Connection timed out

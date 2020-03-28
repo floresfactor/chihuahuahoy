@@ -1,0 +1,16 @@
+Time : 14:35:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aspirinas' fue el primero desde su llegada a Alemania.
+<p<
+El próximo partido' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Marco Fabián, jugador de la semana en la Bundesliga ','marc.jpg','
+El mexicano Marco Fabián fue elegido, por la afición, como el mejor jugador de la jornada 3 de la Bundesliga, donde colaboró con el gol del triunfo ante el Bayer Leverkusen de Javier Hernández.
+
+','','El mexicano anotó al minuto 79 el 2-1 definitivo del encuentro, además de asistir a Alex Meier para abrir el marcador.
+<p>
+Fabián ha disputado 12 encuentros con el Eintracht de Frankfurt. El gol ante las 'aspirinas' fue el primero desde su llegada a Alemania.
+<p<
+El próximo partido del Eintracht será ante el Ingolstadt.','','','','','','','','')
+
+Time : 07:12:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

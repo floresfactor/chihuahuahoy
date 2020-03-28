@@ -1,0 +1,76 @@
+Time : 14:53:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:33:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's and Women's Jails, aunque se dice salió libre tras pagar una fianza de 25 mil' at line 1
+Raw SQL : CALL insertar('sorprendete','','marquesina','Acusan al "Travieso" Arce de abuso sexual','box.jpg','
+
+Arce se retiró del cuadrilátero en el 2012.
+','','El exboxeador Jorge “Travieso” Arce fue detenido el pasado domingo en el condado de Orange, California, después de la cartelera que protagonizaron el mexicano Leo Santa Cruz y el español Kiko Martínez en el Honda Center, de Anaheim.
+<p>
+Fue acusado de abuso sexual por una empleada del hotel donde se hospedaba.
+<p>
+La presunta víctima aseguró que el expúgil la obligó a practicarle sexo oral, por lo que de inmediato fue llevado al Central Men's and Women's Jails, aunque se dice salió libre tras pagar una fianza de 25 mil dólares y la promesa de volver al condado para una audiencia en la que tendrá que esclarecer los hechos. Sin embargo, aún no hay fecha definida para tal acontecimiento.
+<p>
+Arce es conocido en el mundo del boxeo por ser campeón mundial en cinco categorías diferentes. Se retiró del cuadrilátero en el 2012 y ahora es comentarista.','','','','','','','','')
+
+Time : 13:04:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'supermartes' en Estados Unidos','SUPWERMARTES.jpg','
+
+
+WASHINGTON.
+
+Las vot' at line 1
+Raw SQL : CALL insertar('mundo','','mundo2','Arrancan las votaciones del 'supermartes' en Estados Unidos','SUPWERMARTES.jpg','
+
+
+WASHINGTON.
+
+Las votaciones del crucial ‘supermartes’, la cita electoral más importante del proceso de primarias en Estados Unidos, comenzaron hoy con la apertura de urnas en los estados de la zona este del país que están en juego en esta jornada.
+','','
+Una docena de estados de todo el país celebrarán primarias y caucus (asambleas populares) durante la jornada, en la que los aspirantes demócratas competirán por 865 delegados de los 2 mil 383 necesarios para lograr la nominación presidencial del partido, mientras que por el lado republicano están en juego 595 delegados, de los mil 237 necesarios para obtener la candidatura presidencial.
+<p>
+A las votaciones de hoy llegan como claros favoritos, según las encuestas, la ex secretaria de Estado Hillary Clinton por el lado demócrata y el magnate Donald Trump en la contienda republicana.
+<p>
+El rival de Clinton, el senador Bernie Sanders, votó a primera hora de la mañana en su ciudad, Burlington, en el estado de Vermont, acompañado de su mujer, Jane.
+<p>
+Sanders, quien cuenta con una victoria segura en Vermont y espera dar la sorpresa en otros estados como Massachusetts, Minnesota o Colorado, se hizo fotos con algunas de las personas que acudieron a votar temprano al mismo lugar que él.
+<p>
+En declaraciones a los periodistas, Sanders dijo que, si la participación es alta, espera obtener buenos resultados en este supermartes.','','','','','','','','')
+
+Time : 12:35:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:45
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:29
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:16
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:35:14
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:34:36
+SQLSTATE[HY000] [2002] Connection timed out

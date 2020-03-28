@@ -1,0 +1,33 @@
+Time : 21:31:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5186'A=0
+
+Time : 17:42:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:31:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.jagdclub.net/plugins/user/zeno.txt?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=http://www.jagdclub.net/plugins/user/zeno.txt?
+
+Time : 10:41:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'La Voz México' 2016 e irán eligiendo a los más talentosos para ir armando sus' at line 1
+Raw SQL : CALL insertar('estado','cuauhtemoc','chihuahua3','Joven menonita Heide Schellenberg a capara reflectores en La Voz México','NEMOM.jpg','
+Itali Heide Schellenberg cautivó la atención de tres de los cuatro coaches y fue seleccionada para formar parte del grupo de Gloria Trev','','
+Orgullosa de sus tradiciones pero también de sus raíces mexicanas, Itali Heide Schellenberg, una chica menonita orgullosamente del municipio de Cuauhtémoc sorprendió a propios y extraños con su talento de canto en las primeras audiencias de La Voz México 2016, evento realizado a nivel nacional por la cadena Televisa.
+<p>
+Logró que casi todos los coaches voltearan sus asientos giratorios con su interpretación “Seven Nation Army” de The White Stripes, sin embargo fue Gloria Trevi quien consiguió convencer a la joven de 18 años de unirse a su equipo.
+<p>
+Previo a su participación, Itali Heide se autodefinió como una persona no tan conservadora, sino más bien liberal y que de chica sufrió muchos problemas de bullying por ser menonita y ser tan diferente a los demás, donde ella misma se sentía rechazada, ya que la gente tiene un estereotipo “de que venden quesos y que son ganaderos”, pero esta es una buena oportunidad para quitar esa imagen, señaló.
+<p>
+En su reseña destacó que los menonitas tienen un estilo de vida muy conservadora pero que hay mucho potencial artístico y pocas oportunidades para ello.
+<p>
+El programa que será transmitido todos los domingos, inició con nuevos coaches que aceptaron el reto de convertirse en jueces y maestros para los nuevos participantes. Gloria Trevi, Alejandro Sanz, J. Balvin y dos de los integrantes de Los Tigres del Norte conocerán a los participantes por primera vez en el estreno de 'La Voz México' 2016 e irán eligiendo a los más talentosos para ir armando sus respectivos equipos, mismos que se enfrentarán en una serie de etapas para lograr llegar hasta la recta final.','','','','','','','','')
+
+Time : 01:10:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 01:09:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

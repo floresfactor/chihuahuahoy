@@ -1,0 +1,86 @@
+Time : 23:07:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 22:37:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'marcó el primer penal en una falta sobre Rogelio Funes Mori, la cual sí era. E' at line 1
+Raw SQL : CALL insertar('deportes','','titular3','Rayados de Monterrey a semifinales deja en el camino a Tigres','RYA.jpg','
+
+El líder le ganó la serie de cuartos de final al campeón. En un pésimo trabajo de Francisco Chacón, los Rayados del Monterrey avanzaron a las semifinales del torneo Clausura 2016, a pesar de caer en casa ante su acérrimo rival Tigres de la UANL. ','','
+Los felinos iniciaron con todo desde el silbatazo inicial e hicieron que los locales titubearan y perdieran muchos balones, además de jugar nerviosos durante todo el primer tiempo. 
+<P>
+Esto fue aprovechado por el conjunto de Ricardo Ferretti para adelantarse muy temprano en el encuentro. 
+
+<P>
+Corría el minuto 10 y Javier Aquino ya empezaba a hacer de las suyas por la banda izquierda y en una escapada mandó un estupendo servicio para Jesús Dueñas, quien cabeceó con colocación y logró vencer a Jonathan Orozco, héroe del partido pasado de Monterrey. 
+<P>
+Los Tigres siguieron con su plan de ataque para empatar el marcador global y lo encontraron en la única vez que apareció André-Pierre Gignac, quien pasó de noche en el estadio BBVA Bancomer. El francés recibió un perfecto pase de Juninho, para enviar el balón al área, quien no llegaba tanto peligro, pero la desviada de Orozco le permitió a Rafael Sóbis que marcara el 0-2. 
+<P>
+Hasta el momento, Francisco Chacón había tenido un buen partido, pero todo se complicó para el segundo tiempo, en donde marcó dos penales, siendo el segundo el más polémico de todos. Además de expulsar a Juninho por una falta que no ameritaba amonestación. 
+
+<P>
+Al 51' marcó el primer penal en una falta sobre Rogelio Funes Mori, la cual sí era. El cobrador fue Dorlan Pabón, pero para su desgracia, Nahuel Guzmán lo detuvo con los pies y con ello le daba vida a los felinos que buscaban otro gol.
+<P>
+Habían pasado más de 15 minutos cuando vino la expulsión de Juninho, quien metió el cuerpo sobre Carlos Sánchez y el árbitro lo señaló como tarjeta amarilla y el defensor tuvo que abandonar el terreno de juego por doble amonestación. También se fue expulsado Ricardo Ferretti por reclamarle al silbante.
+<P> 
+La desventaja númerica fue aprovechado por los Rayados para poner el 1-2 y sentenciar el partido a favor de los locales. 
+<P>
+Edwin Cardona cobró un tiro libre, en donde encontró a Rogelio Funes Mori, quien remató de volea y con una mano Guzmán evitó que entrara a la portería, pero el rechace le quedó a César Montes para sólo empujarla y hacer estallar el estadio con el grito de gol. 
+<P>
+Monterrey tuvo el empate, pero Rogelio Funes Mori le regaló el penal al arquero con un flojo disparo al centro de la portería. La pena máxima fue cobrada por una inexistente mano de Guido Pizarro, quien golpeó el balón con la cara, pero el árbitro señaló que le había pegado en la mano.
+<P>
+Finalmente se terminó el partido con un Rayados de Monterrey en las Semifinales de la Liga MX. Los Tigres se quedaron en el camino en busca del bicampeonato. ','','','','','','','','')
+
+Time : 20:08:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:02:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:02:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 17:17:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 13:48:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 13:16:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 12:01:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' y 85'), que hizo inútil el triunfo 2-0 de los blancos ante el Deportivo de La' at line 1
+Raw SQL : CALL insertar('deportes','','titular3','Barcelona se proclamó hoy campeón de la Liga de España','mesi.jpg','Barcelona se proclamó hoy campeón de la Liga de España al imponerse por 3-0 en la cancha del Granada en la última fecha del campeonato.
+
+','','Sin acusar la incansable presión del Real Madrid, los azulgranas acabaron con el suspenso de la Liga más reñida de los últimos años con un triplete del uruguayo Luis Suárez (21', 38' y 85'), que hizo inútil el triunfo 2-0 de los blancos ante el Deportivo de La Coruña en el estadio de Riazor.
+<p>
+El Barcelona revalidó su título de campeón al sumar 91 puntos, uno más que el Real Madrid que, pese a su arremetida final en el torneo, no pudo evitar que su archirrival conquistara su vigésimo cuarta Liga y la sexta en las últimas ocho.
+<p>
+
+Después de dilapidar una distancia que llegó a ser de 9 puntos sobre el segundo clasificado -entonces el Atlético de Madrid-, los dirigidos por Luis Enrique se recompusieron anímicamente, aprovecharon la posición de privilegio con la que llegaron a la última fecha y, con una ventaja mínima, firmaron la victoria que les aseguraba el campeonato en un partido de lo más plácido.
+<p>
+Pese a que el Real Madrid abrió antes su marcador en Riazor con un tanto del portugués Cristiano Ronaldo en el minuto 7 de partido, el Barcelona tranquilizó enseguida a sus seguidores con el primer tanto de Suárez, que llegó a los 21. El máximo goleador de la Liga remató completamente solo en el área chica un excelente pase desde la izquierda de Jordi Alba, que había tejido una buena combinación con Neymar.
+<p>
+El gol devolvió a los azulgranas el título que, por unos minutos, acarició el Real Madrid, y plasmó la superioridad evidenciada por los de Luis Enrique desde el inicio del duelo.
+<p>
+Como si estuvieran casi sincronizados, Cristiano Ronaldo respondió al tanto de Suárez con su segundo gol de la tarde, un cabezazo nada ortodoxo que se coló en el arco defendido por el croata Stipe Pletikosa tras tocar en un jugador del Deportivo y luego de que los gallegos reclamaran falta previa del galés Gareth Bale.
+<p>
+El astro portugués amplió así a 35 su cuenta goleadora en la Liga, pero no pudo atrapar a Luis Suárez que, minutos más tarde en Granada, aumentó a 40 la suya para sentenciar el triunfo del Barcelona y proclamarse como máximo goleador del campeonato español.
+<p>
+  
+Su tanto número 39 lo logró el 9 azulgrana al cabecear de manera impecable un buen centro del brasileño Dani Alves y, con casi una hora de partido aún por disputar, sentenciar el choque y la Liga para el Barcelona.
+<p>
+El descanso permitió que los dirigidos por Zinedine Zidane fueran conscientes de que sus 12 victorias consecutivas en el Liga no servirían para darles un título de campeón que no conquistan desde la temporada 2011-12. Así las cosas, y sin Cristiano Ronaldo sobre la cancha, el segundo acto en La Coruña ya no tuvo más historia.
+<p>
+Y en Granada, tampoco sucedió mucho más. Pero, en un buen encuentro de Neymar, Luis Suárez no desaprovechó la oportunidad de sumar su gol número 40 en la Liga al concluir una jugada que inició el argentino Lionel Messi, prosiguió Neymar y remató el goleador uruguayo, en una acción que podría resumir buena parte de la temporada.','','','','','','','','')
+
+Time : 11:08:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

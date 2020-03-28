@@ -1,0 +1,67 @@
+Time : 23:01:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 22:44:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4328'A=0
+
+Time : 21:37:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 21:37:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 20:46:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:45:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:44:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:43:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:42:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 17:10:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:20:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6098'A=0
+
+Time : 11:48:31
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:03:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:01:31
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:01:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:01:02
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:09:07
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:08:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:06:14
+SQLSTATE[HY000] [2002] Connection timed out

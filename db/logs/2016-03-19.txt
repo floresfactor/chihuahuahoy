@@ -1,0 +1,49 @@
+Time : 13:26:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4654'A=0
+
+Time : 08:42:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Cabo' ya lo hubieran dado a conocer: Fiscal','fisval.jpg','El Fiscal General, Jo' at line 1
+Raw SQL : CALL insertar('estado','','chihuahua1','Si hubieran detenido al 'Cabo' ya lo hubieran dado a conocer: Fiscal','fisval.jpg','El Fiscal General, Jorge González Nicolás, mencionó que ellos aún no cuentan con información sobre el arresto del objetivo Nacional que opera en la zona occidente del Estado, apodado el cabo, pero además que además si lo hubieran hecho ya lo habrían dado a conocer.
+','','
+El Fiscal expuso que ya se habían hecho otros operativos para buscar a este sujeto.
+<p>
+Esperamos que pronto caiga, también la autoridad estatal esta haciendo sus propios operativos contra él y otros de esa misma gavilla, que se encuentran en esa zona pero que cada vez estamos más cerca de él, no ha sido posible su arresto, no tengo una notificación oficial, pero vamos a seguir trabajando en ese sentido, aseguró.
+<p>
+"Normalmente los operativos son en conjunto, pero en este participaron únicamente el Ejército y la Marina, y el resultado del mismo se desconoce". 
+<p>
+"Esta operación fue hace días, en mi opinión es que si hubiera sido detenido, ya se hubiera confirmado, se me hacen demasiados como para no darlo a conocer".
+<p>
+"Yo creo que no se ha dado a conocer porque ellos siguen trabajando en la zona, están realizando nuevas estrategias, en otros operativos, junto con nosotros que estamos trabajando en Namiquipa, Nuevo Casas Grandes y Ojinaga".','','','','','','','','')
+
+Time : 08:41:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Cabo' ya lo hubieran dado a conocer: Fiscal','fisval.jpg','El Fiscal General, Jo' at line 1
+Raw SQL : CALL insertar('estado','','chihuahua1','Si hubieran detenido al 'Cabo' ya lo hubieran dado a conocer: Fiscal','fisval.jpg','El Fiscal General, Jorge González Nicolás, mencionó que ellos aún no cuentan con información sobre el arresto del objetivo Nacional que opera en la zona occidente del Estado, apodado "el cabo", pero además que además si lo hubieran hecho ya lo habrían dado a conocer.
+','','
+El Fiscal expuso que ya se habían hecho otros operativos para buscar a este sujeto.
+<p>
+"Esperamos que pronto caiga, también la autoridad estatal esta haciendo sus propios operativos contra él y otros de esa misma gavilla, que se encuentran en esa zona pero que cada vez estamos más cerca de él, no ha sido posible su arresto, no tengo una notificación oficial, pero vamos a seguir trabajando en ese sentido", aseguró.
+<p>
+"Normalmente los operativos son en conjunto, pero en este participaron únicamente el Ejército y la Marina, y el resultado del mismo se desconoce". 
+<p>
+"Esta operación fue hace días, en mi opinión es que si hubiera sido detenido, ya se hubiera confirmado, se me hacen demasiados como para no darlo a conocer".
+<p>
+"Yo creo que no se ha dado a conocer porque ellos siguen trabajando en la zona, están realizando nuevas estrategias, en otros operativos, junto con nosotros que estamos trabajando en Namiquipa, Nuevo Casas Grandes y Ojinaga".','','','','','','','','')
+
+Time : 08:41:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Cabo' ya lo hubieran dado a conocer": Fiscal','fisval.jpg','El Fiscal General, J' at line 1
+Raw SQL : CALL insertar('estado','','chihuahua1','"Si hubieran detenido al 'Cabo' ya lo hubieran dado a conocer": Fiscal','fisval.jpg','El Fiscal General, Jorge González Nicolás, mencionó que ellos aún no cuentan con información sobre el arresto del objetivo Nacional que opera en la zona occidente del Estado, apodado "el cabo", pero además que además si lo hubieran hecho ya lo habrían dado a conocer.
+','','
+El Fiscal expuso que ya se habían hecho otros operativos para buscar a este sujeto.
+<p>
+"Esperamos que pronto caiga, también la autoridad estatal esta haciendo sus propios operativos contra él y otros de esa misma gavilla, que se encuentran en esa zona pero que cada vez estamos más cerca de él, no ha sido posible su arresto, no tengo una notificación oficial, pero vamos a seguir trabajando en ese sentido", aseguró.
+<p>
+"Normalmente los operativos son en conjunto, pero en este participaron únicamente el Ejército y la Marina, y el resultado del mismo se desconoce". 
+<p>
+"Esta operación fue hace días, en mi opinión es que si hubiera sido detenido, ya se hubiera confirmado, se me hacen demasiados como para no darlo a conocer".
+<p>
+"Yo creo que no se ha dado a conocer porque ellos siguen trabajando en la zona, están realizando nuevas estrategias, en otros operativos, junto con nosotros que estamos trabajando en Namiquipa, Nuevo Casas Grandes y Ojinaga".','','','','','','','','')
+
+Time : 00:04:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

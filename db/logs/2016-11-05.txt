@@ -1,0 +1,53 @@
+Time : 23:02:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8663'A=0
+
+Time : 20:25:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Chofis' López falló un penal, Edwin Hernández y Carlos Salcido fueron explusa' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Chivas empata con León','rayado.JPG',' (05/NOV/2016).- León y Chivas salieron con un punto cada quién de su cita en el Nou Camp en el partido que terminó con marcador 1-1.','','
+
+La segunda mitad fue desastrosa para el Guadalajara: 'Chofis' López falló un penal, Edwin Hernández y Carlos Salcido fueron explusados y León anotó en penal el gol que decretó el empate.
+<p>
+Con este resultado, León se mantiene con vida en la lucha por la Liguilla, mientras que Guadalajara tendrá que esperar a la última fecha para timbrar su boleto.
+<p>
+Los Panzas Verdes iniciaron el partido con el cuchillo entre los dientes, marcando prácticamente hombre a hombre a Cota, el portero de Chivas, cada vez que éste tenía la pelota.
+<p>
+Los Esmeraldas se vieron traicionados por su propia intensidad: al minuto siete ya contaba dos amarillas, una de López y otra de Novaretti. Al minuto 13 López cometió una segunda amarilla sobre Michael Pérez y el árbitro Marco Antonio Ortiz lo mandó a las regaderas.
+<p>
+Herida, la fiera acechó al Guadalajara detrás de la línea de media cancha, cerrando espacios e intentando aprovechar al máximo las pelotas paradas que el Guadalajara concedía.
+<p>
+En un tiro de esquina que León quiso aprovechar, Guadalajara desdobló velozmente y se puso adelante en el marcador con un gol de Eduardo "Chofis" López.
+<p>
+León cerró espacios y peleó fiereza cada pelota en los linderos del área del Guadalajara. Los rojiblancos resistieron el vendaval, pero no permanecieron totalmente ecuánimes: Hernández, Cisneros y "Chofis" se engancharon en duelos personales y se llevaron todos tarjeta amarilla durante el primer tiempo.','','','','','','','','')
+
+Time : 19:29:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 18:00:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.bragaconsultoria.com.br/wp-content/uploads/cv/xxx.txt?' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=http://www.bragaconsultoria.com.br/wp-content/uploads/cv/xxx.txt?
+
+Time : 16:32:29
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:32:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:30:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:30:27
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:06:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7011'A=0
+
+Time : 07:29:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4314'A=0
+
+Time : 04:11:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5771'A=0

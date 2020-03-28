@@ -1,0 +1,21 @@
+Time : 16:46:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 11:21:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 07:53:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Toma uno, toma dos', 'Pañuelo en medio' y otras manualidades, como el dibujo. P' at line 1
+Raw SQL : CALL insertar('local','chihuahua','local2','Realiza Fiscalía "Veraneada de Valores" en casa hogar','realiza.jpg','La Fiscalía General del Estado organizó una "Veraneada de Valores" en la Casa Hogar Lirio de los Valles, con la finalidad de recrear y ocupar durante este periodo de vacaciones a 20 niñas y niños, en actividades divertidas y productivas.
+','','Instructoras de la Fiscalía Especializada en Seguridad Pública y Prevención del Delito trabajaron con los menores un valor por día, a través de la organización de diversos juegos y actividades que tienen como objetivo desarrollar la integración y cooperación en los infantes, al compartir material de trabajo. ','','La dinámica de la Veraneada consistió en formar equipos, los cuales participaron en una serie de competencias en las que aplicaron valores como el amor, la honestidad, el respeto, la responsabilidad, la cortesía y la tolerancia, entre otros.','','Algunos otros juegos incluidos en el rol de actividades fueron: Lotería, 'Toma uno, toma dos', 'Pañuelo en medio' y otras manualidades, como el dibujo. Para clausurar el taller, se premió a los equipos ganadores con un reconocimiento de la Veraneada de Valores.','','','','')
+
+Time : 07:52:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Toma uno, toma dos', 'Pañuelo en medio' y otras manualidades, como el dibujo. P' at line 1
+Raw SQL : CALL insertar('local','chihuahua','local2','Realiza Fiscalía "Veraneada de Valores" en casa hogar','realiza.jpg','La Fiscalía General del Estado organizó una "Veraneada de Valores" en la Casa Hogar Lirio de los Valles, con la finalidad de recrear y ocupar durante este periodo de vacaciones a 20 niñas y niños, en actividades divertidas y productivas.
+','','Instructoras de la Fiscalía Especializada en Seguridad Pública y Prevención del Delito trabajaron con los menores un valor por día, a través de la organización de diversos juegos y actividades que tienen como objetivo desarrollar la integración y cooperación en los infantes, al compartir material de trabajo. ','','La dinámica de la Veraneada consistió en formar equipos, los cuales participaron en una serie de competencias en las que aplicaron valores como el amor, la honestidad, el respeto, la responsabilidad, la cortesía y la tolerancia, entre otros.','','Algunos otros juegos incluidos en el rol de actividades fueron: Lotería, 'Toma uno, toma dos', 'Pañuelo en medio' y otras manualidades, como el dibujo. Para clausurar el taller, se premió a los equipos ganadores con un reconocimiento de la Veraneada de Valores.','','','','')
+
+Time : 07:00:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=918'A=0

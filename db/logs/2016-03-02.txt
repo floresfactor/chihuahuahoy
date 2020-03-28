@@ -1,0 +1,21 @@
+Time : 14:02:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:28:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 10:17:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Alá me lo ordenó', dice mujer que decapitó y exhibió cabeza de niña en Rusi' at line 1
+Raw SQL : CALL insertar('mundo','','mundo2',''Alá me lo ordenó', dice mujer que decapitó y exhibió cabeza de niña en Rusia','ala.jpg','
+
+MOSCÚ.
+
+La niñera arrestada en Moscú tras decapitar a una niña de cuatro años y exhibir su cabeza en la calle afirmó haber actuado "por orden de Alá", durante su presentación el miércoles ante un juez que ordenó su detención preventiva, aunque los investigadores creen que la mujer actuó instigada por otras personas a las que se está buscando.
+','','
+Así lo informó hoy el Comité de Investigación ruso -jueces de instrucción- después de interrogar a la detenida, Gulchejra Bobokulova, una uzbeka de 39 años que trabajaba como niñera de la pequeña de cuatro años a la que supuestamente asesinó .
+','','','','','','','','')
+
+Time : 05:01:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

